@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.tablesorter.min.js"></script>
+<script src="js/Chart.min.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="css/cucumber.css" type="text/css"/>
+<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<link rel="shortcut icon" href="images/favicon.png"/>
+
+<script>
+$(document).ready(function() {
+    // this will tell tablesorter to try looking for the data-value attribute
+    // if present, it'll sort by that instead
+    // otherwise, it'll sort by the text content of the table cell
+    $("#tablesorter").tablesorter({
+        textAttribute: 'data-value',
+        // ignores the first row of the header, the 'scenario', 'steps', since
+        // sorting those doesn't make sense
+        selectorHeaders: '> thead tr:not(.dont-sort) th',
+        // use a stable sort
+        sortStable: true
+    });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<title>Cucumber Reports (no 1) - Steps Overview</title>
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber Report</p>
+      <ul class="nav navbar-nav navbar-right">
+        <li role="presentation" ><a href="overview-features.html">Features</a></li>
+        <li role="presentation" ><a href="overview-tags.html">Tags</a></li>
+        <li role="presentation"     class="active" ><a href="overview-steps.html">Steps</a></li>
+        <li role="presentation" ><a href="overview-failures.html">Failures</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="container-fluid">
+  <div class="col-md-5 col-md-offset-1">
+
+<table class="table table-bordered" id="build-info">
+  <thead>
+    <tr>
+      <th>Project</th>
+        <th>Number</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="info">
+      <td>cucumber-jvm-example</td>
+        <td>1</td>
+      <td>24 May 2023, 01:57</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+  <div class="col-md-3 col-md-offset-2">
+  </div>
+</div>
+
+
+<div id="report-lead" class="container-fluid">
+  <div class="col-md-10 col-md-offset-1">
+    <h2>Steps Statistics</h2>
+      <p>The following graph shows step statistics for this build. Below list is based on results.
+ step does not provide information about result then is not listed below.
+ Additionally @Before and @After are not counted because they are part of the scenarios, not steps.</p>
+  </div>
+</div>
+
+<div class="container-fluid" id="report">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <table id="tablesorter" class="stats-table table-hover">
+
+        <thead>
+          <tr class="header">
+            <th>Implementation</th>
+            <th>Occurrences</th>
+            <th>Average duration</th>
+            <th>Max duration</th>
+            <th>Total durations</th>
+            <th>Ratio</th>
+          </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+              <td class="location">tek.capstone.dragons.base.BaseUITest.closeTests(io.cucumber.java.Scenario)</td>
+              <td>20</td>
+              <td class="duration" data-value="579422770">0.579</td>
+              <td class="duration" data-value="579422770">0.770</td>
+              <td class="duration" data-value="11588455400">11.588</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.base.BaseUITest.setupTests()</td>
+              <td>20</td>
+              <td class="duration" data-value="2568459325">2.568</td>
+              <td class="duration" data-value="2568459325">3.465</td>
+              <td class="duration" data-value="51369186500">51.369</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)</td>
+              <td>5</td>
+              <td class="duration" data-value="23441860">0.023</td>
+              <td class="duration" data-value="23441860">0.025</td>
+              <td class="duration" data-value="117209300">0.117</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.HomeSteps.belowOptionsArePresentInShopByDepartmentSidebar(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="2079700">0.002</td>
+              <td class="duration" data-value="2079700">0.002</td>
+              <td class="duration" data-value="2079700">0.002</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.HomeSteps.userClickOnAllSection()</td>
+              <td>6</td>
+              <td class="duration" data-value="256791400">0.256</td>
+              <td class="duration" data-value="256791400">0.267</td>
+              <td class="duration" data-value="1540748400">1.540</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()</td>
+              <td>20</td>
+              <td class="duration" data-value="29935365">0.029</td>
+              <td class="duration" data-value="29935365">0.062</td>
+              <td class="duration" data-value="598707300">0.598</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.HomeSteps.userOn(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="219120440">0.219</td>
+              <td class="duration" data-value="219120440">0.225</td>
+              <td class="duration" data-value="1095602200">1.095</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.aMessageShouldBeDisplayed(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="540833200">0.540</td>
+              <td class="duration" data-value="540833200">0.540</td>
+              <td class="duration" data-value="540833200">0.540</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.aMessageShouldBeDisplayedForAddAddress(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="536039300">0.536</td>
+              <td class="duration" data-value="536039300">0.536</td>
+              <td class="duration" data-value="536039300">0.536</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.aMessageShouldBeDisplayedForEdit(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="538867100">0.538</td>
+              <td class="duration" data-value="538867100">0.538</td>
+              <td class="duration" data-value="538867100">0.538</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.aMessageShouldBeDisplayedOn(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="533158100">0.533</td>
+              <td class="duration" data-value="533158100">0.533</td>
+              <td class="duration" data-value="533158100">0.533</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.addressDetailsShouldBeRemoved()</td>
+              <td>1</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.paymentDetailsShouldBeRemoved()</td>
+              <td>1</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickAddYourAddressButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="249231600">0.249</td>
+              <td class="duration" data-value="249231600">0.249</td>
+              <td class="duration" data-value="249231600">0.249</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAccountOption()</td>
+              <td>7</td>
+              <td class="duration" data-value="252001914">0.252</td>
+              <td class="duration" data-value="252001914">0.256</td>
+              <td class="duration" data-value="1764013400">1.764</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAddAPaymentMethodLink()</td>
+              <td>1</td>
+              <td class="duration" data-value="223674500">0.223</td>
+              <td class="duration" data-value="223674500">0.223</td>
+              <td class="duration" data-value="223674500">0.223</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAddAddressOption()</td>
+              <td>1</td>
+              <td class="duration" data-value="226934600">0.226</td>
+              <td class="duration" data-value="226934600">0.226</td>
+              <td class="duration" data-value="226934600">0.226</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAddYourCardButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="226609200">0.226</td>
+              <td class="duration" data-value="226609200">0.226</td>
+              <td class="duration" data-value="226609200">0.226</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnEditAddressOption()</td>
+              <td>1</td>
+              <td class="duration" data-value="226735700">0.226</td>
+              <td class="duration" data-value="226735700">0.226</td>
+              <td class="duration" data-value="226735700">0.226</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnEditOptionOfCardSection()</td>
+              <td>1</td>
+              <td class="duration" data-value="451593300">0.451</td>
+              <td class="duration" data-value="451593300">0.451</td>
+              <td class="duration" data-value="451593300">0.451</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnRemoveOptionOfAddressSection()</td>
+              <td>1</td>
+              <td class="duration" data-value="220685300">0.220</td>
+              <td class="duration" data-value="220685300">0.220</td>
+              <td class="duration" data-value="220685300">0.220</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnRemoveOptionOfCardSection()</td>
+              <td>1</td>
+              <td class="duration" data-value="224470100">0.224</td>
+              <td class="duration" data-value="224470100">0.224</td>
+              <td class="duration" data-value="224470100">0.224</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnUpdateButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="230740800">0.230</td>
+              <td class="duration" data-value="230740800">0.230</td>
+              <td class="duration" data-value="230740800">0.230</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickOnUpdateYourCardButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="224494600">0.224</td>
+              <td class="duration" data-value="224494600">0.224</td>
+              <td class="duration" data-value="224494600">0.224</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userClickUpdateYourAddressButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="240251400">0.240</td>
+              <td class="duration" data-value="240251400">0.240</td>
+              <td class="duration" data-value="240251400">0.240</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userEditInformationWithBelowData(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="1037326800">1.037</td>
+              <td class="duration" data-value="1037326800">1.037</td>
+              <td class="duration" data-value="1037326800">1.037</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userFillDebitOrCreditCardInformation(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="1040216100">1.040</td>
+              <td class="duration" data-value="1040216100">1.040</td>
+              <td class="duration" data-value="1040216100">1.040</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userFillNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="910823000">0.910</td>
+              <td class="duration" data-value="910823000">0.910</td>
+              <td class="duration" data-value="910823000">0.910</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userFillTheNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="1162658200">1.162</td>
+              <td class="duration" data-value="1162658200">1.162</td>
+              <td class="duration" data-value="1162658200">1.162</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userProfileInformationShouldBeUpdated()</td>
+              <td>1</td>
+              <td class="duration" data-value="545792000">0.545</td>
+              <td class="duration" data-value="545792000">0.545</td>
+              <td class="duration" data-value="545792000">0.545</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userSelectTheCardEndingWith(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="225804800">0.225</td>
+              <td class="duration" data-value="225804800">0.225</td>
+              <td class="duration" data-value="225804800">0.225</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailAccountSteps.userUpdateNameAndPhone(java.lang.String,java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="106210800">0.106</td>
+              <td class="duration" data-value="106210800">0.106</td>
+              <td class="duration" data-value="106210800">0.106</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.aCancelationMessageShouldBeDisplayed(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="14075900">0.014</td>
+              <td class="duration" data-value="14075900">0.014</td>
+              <td class="duration" data-value="14075900">0.014</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.aMessageShouldBeDisplayedAbout(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="520682400">0.520</td>
+              <td class="duration" data-value="520682400">0.520</td>
+              <td class="duration" data-value="520682400">0.520</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.aReturnMessageShouldBeDisplayed(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="522554800">0.522</td>
+              <td class="duration" data-value="522554800">0.522</td>
+              <td class="duration" data-value="522554800">0.522</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.aReviewMessageShouldBeDisplayed(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="525781600">0.525</td>
+              <td class="duration" data-value="525781600">0.525</td>
+              <td class="duration" data-value="525781600">0.525</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.theCartIconQuantityShouldChangeTo(java.lang.String)</td>
+              <td>2</td>
+              <td class="duration" data-value="17485300">0.017</td>
+              <td class="duration" data-value="17485300">0.017</td>
+              <td class="duration" data-value="34970600">0.034</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userCanClickOnItem()</td>
+              <td>1</td>
+              <td class="duration" data-value="221436100">0.221</td>
+              <td class="duration" data-value="221436100">0.221</td>
+              <td class="duration" data-value="221436100">0.221</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userChangeTheCategoryTo(java.lang.String)</td>
+              <td>2</td>
+              <td class="duration" data-value="466141000">0.466</td>
+              <td class="duration" data-value="466141000">0.468</td>
+              <td class="duration" data-value="932282000">0.932</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickAddToCartButton()</td>
+              <td>2</td>
+              <td class="duration" data-value="220941700">0.220</td>
+              <td class="duration" data-value="220941700">0.221</td>
+              <td class="duration" data-value="441883400">0.441</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickAddYourReviewButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="260354500">0.260</td>
+              <td class="duration" data-value="260354500">0.260</td>
+              <td class="duration" data-value="260354500">0.260</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnCancelOrderButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="224761400">0.224</td>
+              <td class="duration" data-value="224761400">0.224</td>
+              <td class="duration" data-value="224761400">0.224</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnCancelTheOrderButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="224864800">0.224</td>
+              <td class="duration" data-value="224864800">0.224</td>
+              <td class="duration" data-value="224864800">0.224</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnCartOption()</td>
+              <td>1</td>
+              <td class="duration" data-value="230653900">0.230</td>
+              <td class="duration" data-value="230653900">0.230</td>
+              <td class="duration" data-value="230653900">0.230</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnFirstOrderInList()</td>
+              <td>3</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="duration" data-value="0">0.000</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnItem()</td>
+              <td>1</td>
+              <td class="duration" data-value="221359800">0.221</td>
+              <td class="duration" data-value="221359800">0.221</td>
+              <td class="duration" data-value="221359800">0.221</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnOrdersSection()</td>
+              <td>3</td>
+              <td class="duration" data-value="252114366">0.252</td>
+              <td class="duration" data-value="252114366">0.259</td>
+              <td class="duration" data-value="756343100">0.756</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnPlaceYourOrder()</td>
+              <td>1</td>
+              <td class="duration" data-value="222246500">0.222</td>
+              <td class="duration" data-value="222246500">0.222</td>
+              <td class="duration" data-value="222246500">0.222</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnProceedToCheckoutButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="225729800">0.225</td>
+              <td class="duration" data-value="225729800">0.225</td>
+              <td class="duration" data-value="225729800">0.225</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnReturnItemsButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="225102900">0.225</td>
+              <td class="duration" data-value="225102900">0.225</td>
+              <td class="duration" data-value="225102900">0.225</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnReturnOrderButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="223858400">0.223</td>
+              <td class="duration" data-value="223858400">0.223</td>
+              <td class="duration" data-value="223858400">0.223</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnReviewButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="226972700">0.226</td>
+              <td class="duration" data-value="226972700">0.226</td>
+              <td class="duration" data-value="226972700">0.226</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userClickOnSearchIcon()</td>
+              <td>2</td>
+              <td class="duration" data-value="220202650">0.220</td>
+              <td class="duration" data-value="220202650">0.221</td>
+              <td class="duration" data-value="440405300">0.440</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userSearchForAnItem(java.lang.String)</td>
+              <td>2</td>
+              <td class="duration" data-value="247984600">0.247</td>
+              <td class="duration" data-value="247984600">0.250</td>
+              <td class="duration" data-value="495969200">0.495</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userSelectQuantity(java.lang.String)</td>
+              <td>2</td>
+              <td class="duration" data-value="452851300">0.452</td>
+              <td class="duration" data-value="452851300">0.453</td>
+              <td class="duration" data-value="905702600">0.905</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userSelectTheCancelationReason(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="457715800">0.457</td>
+              <td class="duration" data-value="457715800">0.457</td>
+              <td class="duration" data-value="457715800">0.457</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userSelectTheDropOffService(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="451975500">0.451</td>
+              <td class="duration" data-value="451975500">0.451</td>
+              <td class="duration" data-value="451975500">0.451</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userSelectTheReturnReason(java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="454809500">0.454</td>
+              <td class="duration" data-value="454809500">0.454</td>
+              <td class="duration" data-value="454809500">0.454</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.RetailOrderSteps.userWriteReviewHeadlineAnd(java.lang.String,java.lang.String)</td>
+              <td>1</td>
+              <td class="duration" data-value="76002600">0.076</td>
+              <td class="duration" data-value="76002600">0.076</td>
+              <td class="duration" data-value="76002600">0.076</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.SignInSteps.userClickOnCreateNewAccountButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="232356900">0.232</td>
+              <td class="duration" data-value="232356900">0.232</td>
+              <td class="duration" data-value="232356900">0.232</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()</td>
+              <td>13</td>
+              <td class="duration" data-value="234186484">0.234</td>
+              <td class="duration" data-value="234186484">0.242</td>
+              <td class="duration" data-value="3044424300">3.044</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()</td>
+              <td>14</td>
+              <td class="duration" data-value="274768971">0.274</td>
+              <td class="duration" data-value="274768971">0.291</td>
+              <td class="duration" data-value="3846765600">3.846</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.SignInSteps.userClickOnSignUpButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="230780100">0.230</td>
+              <td class="duration" data-value="230780100">0.230</td>
+              <td class="duration" data-value="230780100">0.230</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)</td>
+              <td>13</td>
+              <td class="duration" data-value="80927953">0.080</td>
+              <td class="duration" data-value="80927953">0.087</td>
+              <td class="duration" data-value="1052063400">1.052</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.SignInSteps.userFillTheSignUpInformationWithBelowData(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="150882700">0.150</td>
+              <td class="duration" data-value="150882700">0.150</td>
+              <td class="duration" data-value="150882700">0.150</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()</td>
+              <td>13</td>
+              <td class="duration" data-value="545381123">0.545</td>
+              <td class="duration" data-value="545381123">0.563</td>
+              <td class="duration" data-value="7089954600">7.089</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedIntoAccountPage()</td>
+              <td>1</td>
+              <td class="duration" data-value="540874600">0.540</td>
+              <td class="duration" data-value="540874600">0.540</td>
+              <td class="duration" data-value="540874600">0.540</td>
+              <td class="passed">100.00%</td>
+            </tr>
+        </tbody>
+
+        <tfoot class="total">
+          <tr>
+            <td>67</td>
+            <td>202</td>
+            <td class="duration">0.513</td>
+            <td class="duration">51.369</td>
+            <td class="duration">1:43.725</td>
+            <td>Totals</td>
+          </tr>
+        </tfoot>
+
+      </table>
+    </div>
+  </div>
+</div>
+
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+        <small>generate Cucumber HTML reports via:&nbsp;</small>
+        <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Standalone</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-sandwich">Sandwich</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/maven-cucumber-reporting">Maven</a>
+        &nbsp;&nbsp;
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>
