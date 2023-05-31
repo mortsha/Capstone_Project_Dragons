@@ -17,9 +17,11 @@ public class ReadYamlFiles {
 	}
 	
 	public static ReadYamlFiles getInstance(String filePath) throws FileNotFoundException {
-		if(readYamlFiles == null) 
+		if(readYamlFiles == null) {
 			return new ReadYamlFiles(filePath);
+		}
 			return readYamlFiles;
+			
 	}
 	
 	public HashMap getYamlProperty(String key) {
