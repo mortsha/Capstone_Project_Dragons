@@ -65,7 +65,7 @@ public class RetailOrderPage  extends BaseSetup{
 	public WebElement OrderCancelMessage;
 	
 	
-	// return order part
+	//  return order 
 	@FindBy(id = "returnBtn")
 	public WebElement returnItemBttn;
 	@FindBy(id="reasonInput")
