@@ -64,7 +64,7 @@ Feature: Retail Order Page
   Scenario: Verify User can Return the order
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'studentMori1265@gmail.com' and password 'Tek@12345'
+    And User enter email 'studentMori12@gmail.com' and password 'Tek@12345'
     And User click on login button
     And User should be logged in into Account
      And User change the category to 'Electronics'
