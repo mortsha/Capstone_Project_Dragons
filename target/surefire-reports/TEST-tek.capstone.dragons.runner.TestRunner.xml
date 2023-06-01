@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.capstone.dragons.runner.TestRunner" time="14.959" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.capstone.dragons.runner.TestRunner" time="60.868" tests="20" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CA"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.16.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\morte\AppData\Local\Temp\surefire3144011465072271316\surefirebooter-20230531232257152_3.jar C:\Users\morte\AppData\Local\Temp\surefire3144011465072271316 2023-05-31T23-22-56_893-jvmRun1 surefire-20230531232257152_1tmp surefire_0-20230531232257152_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\morte\AppData\Local\Temp\surefire3466118054934958281\surefirebooter-20230531233618981_3.jar C:\Users\morte\AppData\Local\Temp\surefire3466118054934958281 2023-05-31T23-36-18_710-jvmRun1 surefire-20230531233618981_1tmp surefire_0-20230531233618981_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\morte\eclipse-workspace\tek-capstone-dragons\target\test-classes;C:\Users\morte\eclipse-workspace\tek-capstone-dragons\target\classes;C:\Users\morte\.m2\repository\io\cucumber\cucumber-java\7.8.0\cucumber-java-7.8.0.jar;C:\Users\morte\.m2\repository\io\cucumber\cucumber-core\7.8.0\cucumber-core-7.8.0.jar;C:\Users\morte\.m2\repository\io\cucumber\cucumber-gherkin\7.8.0\cucumber-gherkin-7.8.0.jar;C:\Users\morte\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.8.0\cucumber-gherkin-messages-7.8.0.jar;C:\Users\morte\.m2\repository\io\cucumber\gherkin\24.0.0\gherkin-24.0.0.jar;C:\Users\morte\.m2\repository\io\cucumber\messages\19.1.2\messages-19.1.2.jar;C:\Users\morte\.m2\repository\io\cucumber\tag-expressions\4.1.0\tag-expressions-4.1.0.jar;C:\Users\morte\.m2\repository\io\cucumber\cucumber-expressions\16.0.0\cucumber-expressions-16.0.0.jar;C:\Users\morte\.m2\repository\io\cucumber\datatable\7.8.0\datatable-7.8.0.jar;C:\Users\morte\.m2\repository\io\cucumber\cucumber-plugin\7.8.0\cucumber-plugin-7.8.0.jar;C:\Users\morte\.m2\repository\io\cucumber\docstring\7.8.0\docstring-7.8.0.jar;C:\Users\morte\.m2\repository\io\cucumber\html-formatter\20.1.0\html-formatter-20.1.0.jar;C:\Users\morte\.m2\repository\io\cucumber\ci-environment\9.1.0\ci-environment-9.1.0.jar;C:\Users\morte\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\morte\.m2\repository\io\cucumber\cucumber-junit\7.8.0\cucumber-junit-7.8.0.jar;C:\Users\morte\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\morte\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-java\4.8.3\selenium-java-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-api\4.8.3\selenium-api-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.8.3\selenium-chrome-driver-4.8.3.jar;C:\Users\morte\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\morte\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\morte\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\morte\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\morte\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\morte\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\morte\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\morte\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\morte\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\morte\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.8.3\selenium-chromium-driver-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-json\4.8.3\selenium-json-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.8.3\selenium-manager-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v109\4.8.3\selenium-devtools-v109-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v110\4.8.3\selenium-devtools-v110-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v111\4.8.3\selenium-devtools-v111-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.8.3\selenium-devtools-v85-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.8.3\selenium-edge-driver-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.8.3\selenium-firefox-driver-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-http\4.8.3\selenium-http-4.8.3.jar;C:\Users\morte\.m2\repository\dev\failsafe\failsafe\3.3.1\failsafe-3.3.1.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.8.3\selenium-ie-driver-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.8.3\selenium-remote-driver-4.8.3.jar;C:\Users\morte\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\morte\.m2\repository\io\netty\netty-buffer\4.1.90.Final\netty-buffer-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-codec-http\4.1.90.Final\netty-codec-http-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-codec\4.1.90.Final\netty-codec-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-handler\4.1.90.Final\netty-handler-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-common\4.1.90.Final\netty-common-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.90.Final\netty-transport-classes-epoll-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.90.Final\netty-transport-classes-kqueue-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-transport-native-epoll\4.1.90.Final\netty-transport-native-epoll-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.90.Final\netty-transport-native-kqueue-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.90.Final\netty-transport-native-unix-common-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-transport\4.1.90.Final\netty-transport-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-resolver\4.1.90.Final\netty-resolver-4.1.90.Final.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-api\1.24.0\opentelemetry-api-1.24.0.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-context\1.24.0\opentelemetry-context-1.24.0.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.24.0\opentelemetry-exporter-logging-1.24.0.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.24.0\opentelemetry-sdk-metrics-1.24.0.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.24.0-alpha\opentelemetry-sdk-logs-1.24.0-alpha.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-api-logs\1.24.0-alpha\opentelemetry-api-logs-1.24.0-alpha.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.24.0-alpha\opentelemetry-api-events-1.24.0-alpha.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.24.0\opentelemetry-sdk-common-1.24.0.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.24.0\opentelemetry-sdk-extension-autoconfigure-spi-1.24.0.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.24.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.24.0-alpha.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.24.0\opentelemetry-sdk-trace-1.24.0.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.24.0\opentelemetry-sdk-1.24.0.jar;C:\Users\morte\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.24.0-alpha\opentelemetry-semconv-1.24.0-alpha.jar;C:\Users\morte\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\morte\.m2\repository\net\bytebuddy\byte-buddy\1.14.2\byte-buddy-1.14.2.jar;C:\Users\morte\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\morte\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\morte\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\morte\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\morte\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\morte\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\morte\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\morte\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\morte\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.8.3\selenium-safari-driver-4.8.3.jar;C:\Users\morte\.m2\repository\org\seleniumhq\selenium\selenium-support\4.8.3\selenium-support-4.8.3.jar;C:\Users\morte\.m2\repository\io\github\bonigarcia\webdrivermanager\5.3.0\webdrivermanager-5.3.0.jar;C:\Users\morte\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\morte\.m2\repository\com\google\code\gson\gson\2.9.1\gson-2.9.1.jar;C:\Users\morte\.m2\repository\com\github\docker-java\docker-java\3.2.13\docker-java-3.2.13.jar;C:\Users\morte\.m2\repository\com\github\docker-java\docker-java-core\3.2.13\docker-java-core-3.2.13.jar;C:\Users\morte\.m2\repository\com\github\docker-java\docker-java-api\3.2.13\docker-java-api-3.2.13.jar;C:\Users\morte\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\morte\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\morte\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\morte\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.64\bcpkix-jdk15on-1.64.jar;C:\Users\morte\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.64\bcprov-jdk15on-1.64.jar;C:\Users\morte\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\morte\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.2.13\docker-java-transport-httpclient5-3.2.13.jar;C:\Users\morte\.m2\repository\com\github\docker-java\docker-java-transport\3.2.13\docker-java-transport-3.2.13.jar;C:\Users\morte\.m2\repository\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar;C:\Users\morte\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\morte\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\morte\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\morte\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\morte\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\morte\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\morte\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\morte\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\morte\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\morte\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\morte\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\morte\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\morte\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\morte\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\morte\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\morte\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\morte\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar;C:\Users\morte\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar;C:\Users\morte\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\morte\.m2\repository\org\yaml\snakeyaml\1.33\snakeyaml-1.33.jar;C:\Users\morte\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\morte\AppData\Local\Temp\surefire3144011465072271316\surefirebooter-20230531232257152_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\morte\AppData\Local\Temp\surefire3466118054934958281\surefirebooter-20230531233618981_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.16.1+1-LTS-1"/>
@@ -61,9 +61,162 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="Verify User can add a payment method" classname="Retail Account Page" time="5.256">
+  <testcase name="Verify Shop by Department sidebar" classname="Retail Home Page" time="2.876">
     <system-out><![CDATA[
-@Regression1
+@Regression
+Scenario: Verify Shop by Department sidebar                    # features/Home.feature:4
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                              # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:35)- User clicked on All section successfully
+  When User click on All section                               # tek.capstone.dragons.steps.HomeSteps.userClickOnAllSection()
+  Then below options are present in Shop by Department sidebar # tek.capstone.dragons.steps.HomeSteps.belowOptionsArePresentInShopByDepartmentSidebar(io.cucumber.datatable.DataTable)
+    | Electronics | Computers | Smart Home | Sports | Automative |
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 5324
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:21 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #1" classname="Retail Home Page" time="1.706">
+    <system-out><![CDATA[
+@Regression
+Scenario Outline: Verify department sidebar options # features/Home.feature:20
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                   # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:35)- User clicked on All section successfully
+  When User click on All section                    # tek.capstone.dragons.steps.HomeSteps.userClickOnAllSection()
+  And User on 'Electronics'                         # tek.capstone.dragons.steps.HomeSteps.userOn(java.lang.String)
+  Then below options are present in department      # tek.capstone.dragons.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | 'TV & Video' | 'Video Games' |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 4316
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:23 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #2" classname="Retail Home Page" time="1.695">
+    <system-out><![CDATA[
+@Regression
+Scenario Outline: Verify department sidebar options # features/Home.feature:21
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                   # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:35)- User clicked on All section successfully
+  When User click on All section                    # tek.capstone.dragons.steps.HomeSteps.userClickOnAllSection()
+  And User on 'Computers'                           # tek.capstone.dragons.steps.HomeSteps.userOn(java.lang.String)
+  Then below options are present in department      # tek.capstone.dragons.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | 'Accessories' | 'Networking' |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 49120
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:25 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #3" classname="Retail Home Page" time="1.707">
+    <system-out><![CDATA[
+@Regression
+Scenario Outline: Verify department sidebar options # features/Home.feature:22
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                   # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:35)- User clicked on All section successfully
+  When User click on All section                    # tek.capstone.dragons.steps.HomeSteps.userClickOnAllSection()
+  And User on 'Smart Home'                          # tek.capstone.dragons.steps.HomeSteps.userOn(java.lang.String)
+  Then below options are present in department      # tek.capstone.dragons.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | 'Smart Home Lightning' | 'Plugs and Outlets' |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 32190
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:26 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #4" classname="Retail Home Page" time="1.744">
+    <system-out><![CDATA[
+@Regression
+Scenario Outline: Verify department sidebar options # features/Home.feature:23
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                   # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:35)- User clicked on All section successfully
+  When User click on All section                    # tek.capstone.dragons.steps.HomeSteps.userClickOnAllSection()
+  And User on 'Sports'                              # tek.capstone.dragons.steps.HomeSteps.userOn(java.lang.String)
+  Then below options are present in department      # tek.capstone.dragons.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | 'Athletic Clothing' | 'Exercise & Fitness' |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 43979
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:28 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #5" classname="Retail Home Page" time="1.693">
+    <system-out><![CDATA[
+@Regression
+Scenario Outline: Verify department sidebar options # features/Home.feature:24
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                   # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:35)- User clicked on All section successfully
+  When User click on All section                    # tek.capstone.dragons.steps.HomeSteps.userClickOnAllSection()
+  And User on 'Automotive'                          # tek.capstone.dragons.steps.HomeSteps.userOn(java.lang.String)
+  Then below options are present in department      # tek.capstone.dragons.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | 'Automative Parts & Accessories' | 'MotorCycle & Powersports' |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 38908
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:30 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can update Profile Information" classname="Retail Account Page" time="3.122">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can update Profile Information                        # features/RetailAccount.feature:11
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                           # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                         # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori1265@gmail.com' and password 'Tek@12345' # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                            # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                                 # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:24)- User clicked on Account Option successfully
+  When User click on Account option                                         # tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAccountOption()
+  And User update Name 'Motaaazaa' and Phone '3901460010'                   # tek.capstone.dragons.steps.RetailAccountSteps.userUpdateNameAndPhone(java.lang.String,java.lang.String)
+ INFO [main] (RetailAccountSteps.java:42)- User clicked on update button successfully
+  And User click on Update button                                           # tek.capstone.dragons.steps.RetailAccountSteps.userClickOnUpdateButton()
+ INFO [main] (RetailAccountSteps.java:49)- User profile information updated successfully
+  Then user profile information should be updated                           # tek.capstone.dragons.steps.RetailAccountSteps.userProfileInformationShouldBeUpdated()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 31956
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:31 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can add a payment method" classname="Retail Account Page" time="3.459">
+    <system-out><![CDATA[
+@Regression
 Scenario: Verify User can add a payment method                              # features/RetailAccount.feature:18
  INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
   Given User is on retail website                                           # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
@@ -88,21 +241,17 @@ Scenario: Verify User can add a payment method                              # fe
  INFO [main] (RetailAccountSteps.java:85)- A message of Payment Method added sucessfully displayed successfully
   Then a message should be displayed on 'Payment Method added sucessfully'  # tek.capstone.dragons.steps.RetailAccountSteps.aMessageShouldBeDisplayedOn(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
-Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 45980
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 42103
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-May 31, 2023 11:22:59 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+May 31, 2023 11:36:35 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can edit Debit or Credit card" classname="Retail Account Page" time="3.807">
+  <testcase name="Verify User can edit Debit or Credit card" classname="Retail Account Page" time="3.627">
     <system-out><![CDATA[
-@Regression1
+@Regression
 Scenario: Verify User can edit Debit or Credit card                                 # features/RetailAccount.feature:28
  INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
   Given User is on retail website                                                   # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
@@ -127,17 +276,17 @@ Scenario: Verify User can edit Debit or Credit card                             
  INFO [main] (RetailAccountSteps.java:135)- A message Payment Method updated Successfully was displayed successfully
   Then a message should be displayed for edit 'Payment Method updated Successfully' # tek.capstone.dragons.steps.RetailAccountSteps.aMessageShouldBeDisplayedForEdit(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 33696
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 25042
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-May 31, 2023 11:23:03 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+May 31, 2023 11:36:38 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can remove Debit or Credit card" classname="Retail Account Page" time="5.308">
+  <testcase name="Verify User can remove Debit or Credit card" classname="Retail Account Page" time="5.529">
     <system-out><![CDATA[
-@Regression1
+@Regression
 Scenario: Verify User can remove Debit or Credit card                       # features/RetailAccount.feature:38
  INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
   Given User is on retail website                                           # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
@@ -158,11 +307,390 @@ Scenario: Verify User can remove Debit or Credit card                       # fe
  INFO [main] (RetailAccountSteps.java:176)- Payment method removed
   Then payment details should be removed                                    # tek.capstone.dragons.steps.RetailAccountSteps.paymentDetailsShouldBeRemoved()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 44961
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 10948
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-May 31, 2023 11:23:07 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+May 31, 2023 11:36:42 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can add an Address" classname="Retail Account Page" time="3.612">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can add an Address                                          # features/RetailAccount.feature:45
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                                 # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                               # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori1265@gmail.com' and password 'Tek@12345'       # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                                  # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                                       # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:24)- User clicked on Account Option successfully
+  When User click on Account option                                               # tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:184)- User clicked on Add address option successfully
+  And User click on Add address option                                            # tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAddAddressOption()
+ INFO [main] (RetailAccountSteps.java:208)- User filled address with information successfully
+  And user fill new address form with below information                           # tek.capstone.dragons.steps.RetailAccountSteps.userFillNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable)
+    | country       | fullName   | phoneNumber | streetAddress  | apt   | city    | state    | zipCode |
+    | United States | Morteza sh | 2233563214  | 1520 Hemlok Rd | house | Toronto | Virginia | 15478   |
+ INFO [main] (RetailAccountSteps.java:216)- User clicked on Add address button successfully
+  And User click Add Your Address button                                          # tek.capstone.dragons.steps.RetailAccountSteps.userClickAddYourAddressButton()
+ INFO [main] (RetailAccountSteps.java:223)- A message Address Added Successfully displayed successfully
+  Then a message should be displayed for add address 'Address Added Successfully' # tek.capstone.dragons.steps.RetailAccountSteps.aMessageShouldBeDisplayedForAddAddress(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 8070
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:47 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can edit an Address added on account" classname="Retail Account Page" time="3.913">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can edit an Address added on account                  # features/RetailAccount.feature:55
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                           # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                         # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori1265@gmail.com' and password 'Tek@12345' # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                            # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                                 # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:24)- User clicked on Account Option successfully
+  When User click on Account option                                         # tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:230)- User clicked on edit address option successfully
+  And User click on edit address option                                     # tek.capstone.dragons.steps.RetailAccountSteps.userClickOnEditAddressOption()
+ INFO [main] (RetailAccountSteps.java:255)- User filled address with information successfully
+  And user fill the new address form with below information                 # tek.capstone.dragons.steps.RetailAccountSteps.userFillTheNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable)
+    | country | fullName | phoneNumber | streetAddress | apt | city   | state   | zipCode |
+    | Canada  | sharifi  | 22612040328 | 3000 vins Rd  | apa | London | Ontario | 98541   |
+ INFO [main] (RetailAccountSteps.java:263)- User clicked on update your address button successfully
+  And User click update Your Address button                                 # tek.capstone.dragons.steps.RetailAccountSteps.userClickUpdateYourAddressButton()
+ INFO [main] (RetailAccountSteps.java:270)- Address Updated Successfully : showed successfully
+  Then a message should be displayed 'Address Updated Successfully'         # tek.capstone.dragons.steps.RetailAccountSteps.aMessageShouldBeDisplayed(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 11834
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:51 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can remove Address from Account" classname="Retail Account Page" time="2.405">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can remove Address from Account                       # features/RetailAccount.feature:65
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                           # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                         # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori1265@gmail.com' and password 'Tek@12345' # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                            # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                                 # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:24)- User clicked on Account Option successfully
+  When User click on Account option                                         # tek.capstone.dragons.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:277)- User clicked on remove option successfully
+  And User click on remove option of Address section                        # tek.capstone.dragons.steps.RetailAccountSteps.userClickOnRemoveOptionOfAddressSection()
+  Then Address details should be removed                                    # tek.capstone.dragons.steps.RetailAccountSteps.addressDetailsShouldBeRemoved()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 15883
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:55 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can add an item to cart" classname="Retail Order Page" time="3.106">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can add an item to cart                            # features/RetailOrder.feature:4
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                        # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                      # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori1@gmail.com' and password 'Tek@12345' # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                         # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                              # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailOrderSteps.java:21)- User changed the category Smart Home successfully
+  And User change the category to 'Smart Home'                           # tek.capstone.dragons.steps.RetailOrderSteps.userChangeTheCategoryTo(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:29)- user entered kasa outdoor smart plug to search bar successfully
+  And User search for an item 'kasa outdoor smart plug'                  # tek.capstone.dragons.steps.RetailOrderSteps.userSearchForAnItem(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:36)- User clicked on search icon successfully
+  And User click on Search icon                                          # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnSearchIcon()
+ INFO [main] (RetailOrderSteps.java:42)- User clicked on item successfully
+  And User click on item                                                 # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnItem()
+ INFO [main] (RetailOrderSteps.java:49)- User select 2 seccessfully
+  And User select quantity '2'                                           # tek.capstone.dragons.steps.RetailOrderSteps.userSelectQuantity(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:55)- User clicked add to card button successfully
+  And User click add to Cart button                                      # tek.capstone.dragons.steps.RetailOrderSteps.userClickAddToCartButton()
+ INFO [main] (RetailOrderSteps.java:62)- User change the quantity to 2 successfully
+  Then the cart icon quantity should change to '2'                       # tek.capstone.dragons.steps.RetailOrderSteps.theCartIconQuantityShouldChangeTo(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:82)- User went to cart option successfully
+ INFO [main] (RetailOrderSteps.java:85)- User clicked on delete button successfully
+  Then the user delete that item                                         # tek.capstone.dragons.steps.RetailOrderSteps.theUserDeleteThatItem()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 15065
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:36:57 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can place an order with Shipping address and payment Method on file​​​​​​​" classname="Retail Order Page" time="3.631">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can place an order with Shipping address and payment Method on fileâ€‹â€‹â€‹â€‹â€‹â€‹â€‹ # features/RetailOrder.feature:20
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                                                # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                                              # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori12@gmail.com' and password 'Tek@12345'                        # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                                                 # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                                                      # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailOrderSteps.java:21)- User changed the category Electronics successfully
+  And User change the category to 'Electronics'                                                  # tek.capstone.dragons.steps.RetailOrderSteps.userChangeTheCategoryTo(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:29)- user entered Apex Legends to search bar successfully
+  And User search for an item 'Apex Legends'                                                     # tek.capstone.dragons.steps.RetailOrderSteps.userSearchForAnItem(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:36)- User clicked on search icon successfully
+  And User click on Search icon                                                                  # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnSearchIcon()
+  And User can click on item                                                                     # tek.capstone.dragons.steps.RetailOrderSteps.userCanClickOnItem()
+ INFO [main] (RetailOrderSteps.java:49)- User select 5 seccessfully
+  And User select quantity '5'                                                                   # tek.capstone.dragons.steps.RetailOrderSteps.userSelectQuantity(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:55)- User clicked add to card button successfully
+  And User click add to Cart button                                                              # tek.capstone.dragons.steps.RetailOrderSteps.userClickAddToCartButton()
+ INFO [main] (RetailOrderSteps.java:62)- User change the quantity to 5 successfully
+  Then the cart icon quantity should change to '5'                                               # tek.capstone.dragons.steps.RetailOrderSteps.theCartIconQuantityShouldChangeTo(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:98)- User clicked on cart option successfully
+  And User click on Cart option                                                                  # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnCartOption()
+ INFO [main] (RetailOrderSteps.java:104)- user clicked on Proceed to Checkout Button successfully
+  And User click on Proceed to Checkout button                                                   # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnProceedToCheckoutButton()
+ INFO [main] (RetailOrderSteps.java:110)- User clicked on Place Your Order successfully
+  And User click on Place Your Order                                                             # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnPlaceYourOrder()
+ INFO [main] (RetailOrderSteps.java:117)- A message Order Placed, Thanks displayed successfully
+  And a message should be displayed about 'Order Placed, Thanks'                                 # tek.capstone.dragons.steps.RetailOrderSteps.aMessageShouldBeDisplayedAbout(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 45128
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:37:00 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can cancel the order" classname="Retail Order Page" time="4.073">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can cancel the order                                       # features/RetailOrder.feature:39
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                                # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                              # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori1@gmail.com' and password 'Tek@12345'         # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                                 # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                                      # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailOrderSteps.java:21)- User changed the category Electronics successfully
+  And User change the category to 'Electronics'                                  # tek.capstone.dragons.steps.RetailOrderSteps.userChangeTheCategoryTo(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:29)- user entered Apex Legends to search bar successfully
+  And User search for an item 'Apex Legends'                                     # tek.capstone.dragons.steps.RetailOrderSteps.userSearchForAnItem(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:36)- User clicked on search icon successfully
+  And User click on Search icon                                                  # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnSearchIcon()
+  And User can click on item                                                     # tek.capstone.dragons.steps.RetailOrderSteps.userCanClickOnItem()
+ INFO [main] (RetailOrderSteps.java:49)- User select 2 seccessfully
+  And User select quantity '2'                                                   # tek.capstone.dragons.steps.RetailOrderSteps.userSelectQuantity(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:55)- User clicked add to card button successfully
+  And User click add to Cart button                                              # tek.capstone.dragons.steps.RetailOrderSteps.userClickAddToCartButton()
+ INFO [main] (RetailOrderSteps.java:62)- User change the quantity to 2 successfully
+  Then the cart icon quantity should change to '2'                               # tek.capstone.dragons.steps.RetailOrderSteps.theCartIconQuantityShouldChangeTo(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:98)- User clicked on cart option successfully
+  And User click on Cart option                                                  # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnCartOption()
+ INFO [main] (RetailOrderSteps.java:104)- user clicked on Proceed to Checkout Button successfully
+  And User click on Proceed to Checkout button                                   # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnProceedToCheckoutButton()
+ INFO [main] (RetailOrderSteps.java:110)- User clicked on Place Your Order successfully
+  And User click on Place Your Order                                             # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnPlaceYourOrder()
+ INFO [main] (RetailOrderSteps.java:117)- A message Order Placed, Thanks displayed successfully
+  And a message should be displayed about 'Order Placed, Thanks'                 # tek.capstone.dragons.steps.RetailOrderSteps.aMessageShouldBeDisplayedAbout(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:125)- User clicked on Orders section successfully
+  And User click on Orders section                                               # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnOrdersSection()
+  And User click on first order in list                                          # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnFirstOrderInList()
+ INFO [main] (RetailOrderSteps.java:135)- User clicked on cancel the order button
+  And User click on Cancel The Order button                                      # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnCancelTheOrderButton()
+ INFO [main] (RetailOrderSteps.java:142)- User selected the cancelation reason successfully
+  And User select the cancelation Reason 'Bought wrong item'                     # tek.capstone.dragons.steps.RetailOrderSteps.userSelectTheCancelationReason(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:148)- User clicked on Cancel Order button successfully
+  And User click on Cancel Order button                                          # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnCancelOrderButton()
+ INFO [main] (RetailOrderSteps.java:155)- A cancelation message Your Order Has Been Cancelled displayed successfully
+  Then a cancelation message should be displayed 'Your Order Has Been Cancelled' # tek.capstone.dragons.steps.RetailOrderSteps.aCancelationMessageShouldBeDisplayed(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 11944
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:37:04 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can Return the order" classname="Retail Order Page" time="4.412">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can Return the order                                # features/RetailOrder.feature:64
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                         # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                       # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori12@gmail.com' and password 'Tek@12345' # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                          # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                               # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailOrderSteps.java:21)- User changed the category Electronics successfully
+  And User change the category to 'Electronics'                           # tek.capstone.dragons.steps.RetailOrderSteps.userChangeTheCategoryTo(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:29)- user entered Apex Legends to search bar successfully
+  And User search for an item 'Apex Legends'                              # tek.capstone.dragons.steps.RetailOrderSteps.userSearchForAnItem(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:36)- User clicked on search icon successfully
+  And User click on Search icon                                           # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnSearchIcon()
+  And User can click on item                                              # tek.capstone.dragons.steps.RetailOrderSteps.userCanClickOnItem()
+ INFO [main] (RetailOrderSteps.java:49)- User select 5 seccessfully
+  And User select quantity '5'                                            # tek.capstone.dragons.steps.RetailOrderSteps.userSelectQuantity(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:55)- User clicked add to card button successfully
+  And User click add to Cart button                                       # tek.capstone.dragons.steps.RetailOrderSteps.userClickAddToCartButton()
+ INFO [main] (RetailOrderSteps.java:62)- User change the quantity to 5 successfully
+  Then the cart icon quantity should change to '5'                        # tek.capstone.dragons.steps.RetailOrderSteps.theCartIconQuantityShouldChangeTo(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:98)- User clicked on cart option successfully
+  And User click on Cart option                                           # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnCartOption()
+ INFO [main] (RetailOrderSteps.java:104)- user clicked on Proceed to Checkout Button successfully
+  And User click on Proceed to Checkout button                            # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnProceedToCheckoutButton()
+ INFO [main] (RetailOrderSteps.java:110)- User clicked on Place Your Order successfully
+  And User click on Place Your Order                                      # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnPlaceYourOrder()
+ INFO [main] (RetailOrderSteps.java:117)- A message Order Placed, Thanks displayed successfully
+  And a message should be displayed about 'Order Placed, Thanks'          # tek.capstone.dragons.steps.RetailOrderSteps.aMessageShouldBeDisplayedAbout(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:125)- User clicked on Orders section successfully
+  And User click on Orders section                                        # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnOrdersSection()
+  And User click on first order in list                                   # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnFirstOrderInList()
+ INFO [main] (RetailOrderSteps.java:163)- User clicked on return item button successfully
+  And User click on Return Items button                                   # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnReturnItemsButton()
+ INFO [main] (RetailOrderSteps.java:170)- User clicked on retrun reason Item damaged successfully
+  And User select the Return Reason 'Item damaged'                        # tek.capstone.dragons.steps.RetailOrderSteps.userSelectTheReturnReason(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:177)- User select the drop off the service at FedEx successfully
+  And User select the drop off service 'FedEx'                            # tek.capstone.dragons.steps.RetailOrderSteps.userSelectTheDropOffService(java.lang.String)
+ INFO [main] (RetailOrderSteps.java:183)- User clicked on return order button successfully
+  And User click on Return Order button                                   # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnReturnOrderButton()
+ INFO [main] (RetailOrderSteps.java:190)- A return message Return was successfull was displayed successfully
+  Then a return message should be displayed 'Return was successfull'      # tek.capstone.dragons.steps.RetailOrderSteps.aReturnMessageShouldBeDisplayed(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 25467
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:37:08 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can write a review on order placed" classname="Retail Order Page" time="3.401">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify User can write a review on order placed                         # features/RetailOrder.feature:90
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                                # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                              # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori1@gmail.com' and password 'Tek@12345'         # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                                 # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  And User should be logged in into Account                                      # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailOrderSteps.java:125)- User clicked on Orders section successfully
+  And User click on Orders section                                               # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnOrdersSection()
+  And User click on first order in list                                          # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnFirstOrderInList()
+ INFO [main] (RetailOrderSteps.java:198)- User clicked on review button successfully
+  And User click on Review button                                                # tek.capstone.dragons.steps.RetailOrderSteps.userClickOnReviewButton()
+ INFO [main] (RetailOrderSteps.java:204)- User wrote a headline headline value successfully
+ INFO [main] (RetailOrderSteps.java:206)- User wrote a review review text successfully
+  And User write Review headline 'headline value' and 'review text'              # tek.capstone.dragons.steps.RetailOrderSteps.userWriteReviewHeadlineAnd(java.lang.String,java.lang.String)
+ INFO [main] (RetailOrderSteps.java:212)- User clicked on Add your review Button successfully
+  And User click Add your Review button                                          # tek.capstone.dragons.steps.RetailOrderSteps.userClickAddYourReviewButton()
+ INFO [main] (RetailOrderSteps.java:219)- a review message Your review was added successfully was displayed successfully
+  Then a review message should be displayed 'Your review was added successfully' # tek.capstone.dragons.steps.RetailOrderSteps.aReviewMessageShouldBeDisplayed(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 42301
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:37:12 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify user can sign in into Retail Application" classname="Sign in Feature" time="2.192">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify user can sign in into Retail Application                # features/Singin.feature:4
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                                        # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                                      # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:28)- User enterd email and password successfully
+  And User enter email 'studentMori1@gmail.com' and password 'Tek@12345' # tek.capstone.dragons.steps.SignInSteps.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:35)- user clicked on login button successfully
+  And User click on login button                                         # tek.capstone.dragons.steps.SignInSteps.userClickOnLoginButton()
+ INFO [main] (SignInSteps.java:44)-  user logged in successfully
+  Then User should be logged in into Account                             # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedInIntoAccount()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 31525
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:37:16 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
+]]></system-err>
+  </testcase>
+  <testcase name="Verify user can create an account into Retail Website" classname="Sign in Feature" time="2.343">
+    <system-out><![CDATA[
+@Regression
+Scenario: Verify user can create an account into Retail Website # features/Singin.feature:12
+ INFO [main] (HomeSteps.java:29)- Tekschool logo was displayed successfully
+  Given User is on retail website                               # tek.capstone.dragons.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:21)- User clicked on signin button successfully
+  When User click on Sign in option                             # tek.capstone.dragons.steps.SignInSteps.userClickOnSignInOption()
+ INFO [main] (SignInSteps.java:50)- User clicked on create new account button successfully
+  And User click on Create New Account button                   # tek.capstone.dragons.steps.SignInSteps.userClickOnCreateNewAccountButton()
+ INFO [main] (SignInSteps.java:64)- User filled signUp information successfully
+  And User fill the signUp information with below data          # tek.capstone.dragons.steps.SignInSteps.userFillTheSignUpInformationWithBelowData(io.cucumber.datatable.DataTable)
+    | name        | email                       | password  | confirmPassword |
+    | studentMori | studentMori126568@gmail.com | Tek@12345 | Tek@12345       |
+ INFO [main] (SignInSteps.java:71)- User clicked on SignUp button successfully
+  And User click on SignUp button                               # tek.capstone.dragons.steps.SignInSteps.userClickOnSignUpButton()
+ INFO [main] (SignInSteps.java:80)-  user logged in successfully
+  Then User should be logged into account page                  # tek.capstone.dragons.steps.SignInSteps.userShouldBeLoggedIntoAccountPage()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 37741
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 31, 2023 11:37:18 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
 ]]></system-err>
   </testcase>

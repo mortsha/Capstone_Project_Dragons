@@ -14,7 +14,7 @@ Feature: Retail Account Page
     And User click on Update button
     Then user profile information should be updated
 
-  @Regression1
+  @Regression
   Scenario: Verify User can add a payment method
     When User click on Account option
     And User click on Add a payment method link
@@ -24,7 +24,7 @@ Feature: Retail Account Page
     And User click on Add your card button
     Then a message should be displayed on 'Payment Method added sucessfully'
 
-  @Regression1
+  @Regression
   Scenario: Verify User can edit Debit or Credit card
     When User click on Account option
     And User click on Edit option of card section
@@ -34,7 +34,7 @@ Feature: Retail Account Page
     And user click on Update Your Card button
     Then a message should be displayed for edit 'Payment Method updated Successfully'
 
-  @Regression1
+  @Regression
   Scenario: Verify User can remove Debit or Credit card
     When User click on Account option
     And User select the card 
