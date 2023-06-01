@@ -22,7 +22,7 @@ Feature: Retail Account Page
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
       | 1234560891330467 | Morteza    |               8 |           2026 |          321 |
     And User click on Add your card button
-    Then a message should be displayed on 'Payment Method added sucessfully'
+    Then a message should be displayed on 'Payment Method added successfully'
 
   @Regression
   Scenario: Verify User can edit Debit or Credit card
