@@ -54,8 +54,12 @@ public class CommonUtility extends BaseSetup {
 	}
 
 	public void sendText(WebElement element, String value) {
+		
+		JavascriptExecutor js = (JavascriptExecutor) getDriver();
+		js.executeScript("arguments[0].value=''", element);
+		
 		this.waitTillPresence(element).sendKeys(value);
-
+		
 	}
 
 	public String getElementText(WebElement element) {

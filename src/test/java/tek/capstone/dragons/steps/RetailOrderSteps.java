@@ -60,6 +60,7 @@ public class RetailOrderSteps extends CommonUtility {
 		waitTillClickable(factory.retailOrderPage().cartOption);
 		Assert.assertEquals(factory.retailOrderPage().cartOption.getText(), quantity);
 		logger.info("User change the quantity to " + quantity + " successfully");
+
 		
 //		waitTillPresence(factory.retailOrderPage().cartQuantity);
 //		click(factory.retailOrderPage().cartQuantity);
@@ -72,8 +73,19 @@ public class RetailOrderSteps extends CommonUtility {
 //				break;
 //			}
 //		}
-		
+
 	}
+
+	@Then("the user delete that item")
+	public void theUserDeleteThatItem() {
+		click(factory.retailOrderPage().cartOption);
+		logger.info("User went to cart option successfully");
+
+		click(factory.retailOrderPage().deleteBttn);
+		logger.info("User clicked on delete button successfully");
+	}
+	
+
 	// scenario 2
 	@When("User can click on item")
 	public void userCanClickOnItem() {
@@ -204,7 +216,7 @@ public class RetailOrderSteps extends CommonUtility {
 	public void aReviewMessageShouldBeDisplayed(String reviewAddedMessage) {
 		waitTillPresence(factory.retailOrderPage().reviewAddedMessage);
 		Assert.assertEquals(factory.retailOrderPage().reviewAddedMessage.getText(), reviewAddedMessage);
-		logger.info("a review message " + reviewAddedMessage+ " was displayed successfully");
+		logger.info("a review message " + reviewAddedMessage + " was displayed successfully");
 	}
 
 }

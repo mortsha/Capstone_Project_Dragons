@@ -36,6 +36,10 @@ public class RetailOrderPage  extends BaseSetup{
 	public List<WebElement> cartQuantityList;
 	@FindBy(xpath ="//input[@class='cart__item-quantity']")
 	public WebElement quantityField;
+	
+	@FindBy(xpath = "//p//span[text()='Delete']")
+	public WebElement deleteBttn;
+	
 	//span[@id='cartQuantity']
 	@FindBy(xpath="//span[@id='cartQuantity']")
 	public WebElement cartOption;
