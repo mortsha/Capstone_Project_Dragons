@@ -14,7 +14,7 @@ Feature: Retail Account Page
     And User click on Update button
     Then user profile information should be updated
 
-  @Regression
+  @Regression1
   Scenario: Verify User can add a payment method
     When User click on Account option
     And User click on Add a payment method link
@@ -24,21 +24,20 @@ Feature: Retail Account Page
     And User click on Add your card button
     Then a message should be displayed on 'Payment Method added sucessfully'
 
-  @Regression
+  @Regression1
   Scenario: Verify User can edit Debit or Credit card
     When User click on Account option
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 8888546003332222 | sharifi    |               9 |           2028 |          987 |
+      | 9999000077775555 | sharifi    |               9 |           2028 |          987 |
     And user click on Update Your Card button
     Then a message should be displayed for edit 'Payment Method updated Successfully'
 
-  @Regression
+  @Regression1
   Scenario: Verify User can remove Debit or Credit card
     When User click on Account option
-    And User select the card ending with '2222'
-    And User select the card ending with '0467'
+    And User select the card 
     And User click on remove option of card section
     Then payment details should be removed
 
