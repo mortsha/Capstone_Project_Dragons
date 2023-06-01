@@ -85,6 +85,8 @@ public class RetailAccountSteps extends CommonUtility {
 			logger.info("A message of " + message + " displayed successfully");
 		}
 	}
+	
+
 
 	// User Update the payment
 	@When("User click on Edit option of card section")
