@@ -27,10 +27,10 @@ public class RetailAccountSteps extends CommonUtility {
 	// User update the information
 	@When("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phone) {
-		
+
 		WebElement nameInput = factory.retailAccountPage().nameInputField;
 		WebElement phoneInput = factory.retailAccountPage().phoneInputField;
-		
+
 		String phoneNumber = DataGenerator.getPhoneNumber();
 		sendText(nameInput, name);
 		sendText(phoneInput, phoneNumber);
@@ -89,7 +89,8 @@ public class RetailAccountSteps extends CommonUtility {
 	// User Update the payment
 	@When("User click on Edit option of card section")
 	public void userClickOnEditOptionOfCardSection() {
-		waitTillClickable(factory.retailAccountPage().masterCard).click();
+		waitTillClickable(factory.retailAccountPage().masterCard);
+		click(factory.retailAccountPage().masterCard);
 		logger.info("User clicked on card to edit successfully");
 //		String element = factory.retailAccountPage().cardOption.getText();
 //		click(factory.retailAccountPage().editCardPayment);
@@ -136,29 +137,43 @@ public class RetailAccountSteps extends CommonUtility {
 
 	// User removed
 
-	@When("User select the card ending with {string}")
-	public void userSelectTheCardEndingWith(String string) {
-		List<WebElement> cards = factory.retailAccountPage().cardEnding;
-		for (WebElement card : cards) {
-			if (card.getText().contains(string)) {
-				System.out.println(card.getText());
-				click(card);
-				logger.info(string + " is selected");
-				break;
-			}
-		}
+	@When("User select the card")
+	public void userSelectTheCard() {
+		waitTillClickable(factory.retailAccountPage().masterCard);
+		click(factory.retailAccountPage().masterCard);
+		logger.info("User clicked on card to edit successfully");
+
+//		waitTillPresence(factory.retailAccountPage().selectCartOption);
+//		click(factory.retailAccountPage().selectCartOption);
 	}
 
+//	@When("User select the card ending with {string}")
+//	public void userSelectTheCardEndingWith(String string) {
+//		List<WebElement> cards = factory.retailAccountPage().cardEnding;
+//		for (WebElement card : cards) {
+//			if (card.getText().contains(string)) {
+//				System.out.println(card.getText());
+//				click(card);
+//				logger.info(string + " is selected");
+//				break;
+//			}
+//		}
+//	}
+
 	@When("User click on remove option of card section")
-	public void userClickOnRemoveOptionOfCardSection() {
+	public void userClickOnRemoveOptionOfCardSection() throws InterruptedException {
 		click(factory.retailAccountPage().removeCard);
+		Thread.sleep(3000);
 		logger.info("User clicked on remove option successfully");
 	}
 
 	@Then("payment details should be removed")
 	public void paymentDetailsShouldBeRemoved() {
+
+		List<WebElement> paymentElements = factory.retailAccountPage().paymentCardList;
+		Assert.assertTrue(paymentElements.size() == 1);
+
 		logger.info("Payment method removed");
-		// what should I do?
 
 	}
 
@@ -234,7 +249,7 @@ public class RetailAccountSteps extends CommonUtility {
 			click(factory.retailAccountPage().stateDropdown);
 			selectByVisibleText(factory.retailAccountPage().stateDropdown, row.get("state"));
 			factory.retailAccountPage().zipCodeAddressField.clear();
-			
+
 			sendText(factory.retailAccountPage().zipCodeAddressField, row.get("zipCode"));
 
 			logger.info("User filled address with information successfully");

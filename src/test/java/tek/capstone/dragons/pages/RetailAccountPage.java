@@ -45,6 +45,10 @@ public class RetailAccountPage extends BaseSetup {
 	public WebElement paymentMethodMessage;
 	
 	// editPayment part
+	
+	@FindBy(xpath = "//div[@class='account__payments']/div/div")
+	public List<WebElement> paymentCardList;
+	
 	@FindBy(xpath = "//div[@class='account__payments']//p[text()='Master Card']")
 	public WebElement masterCard;
 	@FindBy(xpath="//div[@class='account__payment']//button[text()='Edit']")
@@ -57,7 +61,11 @@ public class RetailAccountPage extends BaseSetup {
 	// remove card option
 	@FindBy(xpath = "//p[@class='account__payment__sub-text']")
 	public List<WebElement> cardEnding;
-	@FindBy(xpath = "//div//button[text()='remove']")
+	
+	@FindBy(xpath = "//div[@class='false account__payment-item']")
+	public WebElement selectCartOption;
+	
+	@FindBy(xpath = "//button[text()='remove']")
 	public WebElement removeCard;
 	
 	// add address

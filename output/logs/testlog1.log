@@ -4338,3 +4338,1275 @@
 2023-05-31 20:48:25,754 [main] INFO logger_file - User filled signUp information successfully
 2023-05-31 20:48:25,799 [main] INFO logger_file - User clicked on SignUp button successfully
 2023-05-31 20:48:26,103 [main] INFO logger_file -  user logged in successfully
+2023-05-31 21:58:19,826 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 21:58:19,917 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:58:20,091 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 21:58:20,147 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 21:58:20,512 [main] INFO logger_file -  user logged in successfully
+2023-05-31 21:58:20,590 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 21:58:20,646 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 21:58:21,063 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 21:58:21,116 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 21:58:21,789 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 21:58:36,494 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 21:58:36,582 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:58:36,742 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 21:58:36,797 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 21:58:37,128 [main] INFO logger_file -  user logged in successfully
+2023-05-31 21:58:37,203 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 21:58:37,266 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 21:58:37,723 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 21:58:37,774 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 21:58:46,999 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 21:58:47,092 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:59:01,987 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 21:59:02,077 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:59:02,238 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 21:59:02,293 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 21:59:02,617 [main] INFO logger_file -  user logged in successfully
+2023-05-31 21:59:02,692 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 21:59:02,752 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 21:59:03,209 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 21:59:03,263 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 21:59:03,948 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 21:59:05,406 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 21:59:05,491 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:59:05,645 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 21:59:05,697 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 21:59:06,061 [main] INFO logger_file -  user logged in successfully
+2023-05-31 21:59:06,133 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 21:59:06,246 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 21:59:06,301 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 21:59:06,807 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 21:59:07,528 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 21:59:08,975 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 21:59:09,057 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:59:09,206 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 21:59:09,254 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 21:59:09,578 [main] INFO logger_file -  user logged in successfully
+2023-05-31 21:59:09,647 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 21:59:09,824 [main] INFO logger_file - 2222 is selected
+2023-05-31 21:59:09,884 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 21:59:09,885 [main] INFO logger_file - Payment method removed
+2023-05-31 21:59:11,288 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 21:59:11,371 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:59:11,517 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 21:59:11,564 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 21:59:11,934 [main] INFO logger_file -  user logged in successfully
+2023-05-31 21:59:12,004 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 21:59:12,069 [main] INFO logger_file - User clicked on Add address option successfully
+2023-05-31 21:59:12,704 [main] INFO logger_file - User filled address with information successfully
+2023-05-31 21:59:12,777 [main] INFO logger_file - User clicked on Add address button successfully
+2023-05-31 21:59:13,436 [main] INFO logger_file - A message Address Added Successfully displayed successfully
+2023-05-31 22:06:34,481 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:06:34,575 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:06:34,743 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:06:34,799 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:06:35,236 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:06:35,319 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:06:35,375 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:06:35,840 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:06:35,893 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:06:36,585 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:06:55,777 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:06:55,865 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:06:56,021 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:06:56,075 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:06:56,409 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:06:56,483 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:06:56,547 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:06:56,605 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:06:57,108 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:06:57,840 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:07:31,834 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:07:31,929 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:07:32,086 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:07:32,141 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:07:32,514 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:07:32,597 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:07:32,661 [main] INFO logger_file - 2222 is selected
+2023-05-31 22:07:32,732 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:07:32,732 [main] INFO logger_file - Payment method removed
+2023-05-31 22:10:33,121 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:10:33,222 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:10:33,383 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:10:33,438 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:10:33,815 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:10:33,895 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:10:33,965 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:10:34,427 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:10:34,482 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:10:35,162 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:10:36,666 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:10:36,756 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:10:36,918 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:10:36,972 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:10:37,311 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:10:37,389 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:10:37,508 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:10:37,564 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:10:38,079 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:10:38,810 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:10:40,282 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:10:40,365 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:10:40,519 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:10:40,567 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:10:40,891 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:10:40,964 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:10:41,097 [main] INFO logger_file - 2222 is selected
+2023-05-31 22:10:41,173 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:10:41,174 [main] INFO logger_file - Payment method removed
+2023-05-31 22:16:24,716 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:16:24,806 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:16:24,970 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:16:25,024 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:16:25,390 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:16:25,469 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:16:25,532 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:16:26,010 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:16:26,067 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:16:26,741 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:16:28,287 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:16:28,374 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:16:28,529 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:16:28,582 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:16:28,902 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:16:28,982 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:16:29,113 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:16:29,170 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:16:29,682 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:16:30,395 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:16:31,905 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:16:31,987 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:16:32,148 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:16:32,201 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:16:32,515 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:16:32,588 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:17:44,098 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:17:44,186 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:17:44,342 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:17:44,394 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:17:44,825 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:17:44,909 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:17:44,969 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:17:45,442 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:17:45,494 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:17:46,177 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:17:47,737 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:17:47,819 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:17:47,976 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:17:48,028 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:17:48,390 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:17:48,465 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:17:48,587 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:17:48,652 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:17:49,156 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:17:49,875 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:17:51,415 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:17:51,496 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:17:51,648 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:17:51,697 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:17:52,081 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:17:52,154 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:17:52,335 [main] INFO logger_file - 2222 is selected
+2023-05-31 22:17:52,400 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:17:52,401 [main] INFO logger_file - Payment method removed
+2023-05-31 22:20:35,402 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:20:35,490 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:20:35,651 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:20:35,706 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:20:36,048 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:20:36,127 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:20:36,186 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:20:36,642 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:20:36,695 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:20:37,377 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:20:38,831 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:20:38,918 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:20:39,070 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:20:39,123 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:20:39,462 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:20:39,541 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:20:39,660 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:20:39,715 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:20:40,212 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:20:40,928 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:20:42,351 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:20:42,441 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:20:42,591 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:20:42,639 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:20:43,023 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:20:43,097 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:20:43,347 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:20:43,348 [main] INFO logger_file - Payment method removed
+2023-05-31 22:22:31,526 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:22:31,628 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:22:31,791 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:22:31,847 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:22:32,177 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:22:32,253 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:22:32,315 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:22:32,820 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:22:32,873 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:22:33,556 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:22:35,035 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:22:35,122 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:22:35,276 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:22:35,328 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:22:35,654 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:22:35,729 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:22:35,839 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:22:35,897 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:22:36,390 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:22:37,110 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:22:38,572 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:22:38,666 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:22:38,826 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:22:38,874 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:22:39,217 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:22:39,283 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:22:39,473 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:22:39,474 [main] INFO logger_file - Payment method removed
+2023-05-31 22:23:22,887 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:23:22,974 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:23:23,145 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:23:23,198 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:23:23,565 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:23:23,645 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:23:23,708 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:23:24,176 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:23:24,229 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:23:24,898 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:23:26,386 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:23:26,478 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:23:26,632 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:23:26,684 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:23:27,020 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:23:27,098 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:23:27,162 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:23:27,218 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:23:27,693 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:23:28,411 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:23:29,804 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:23:29,889 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:23:30,038 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:23:30,085 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:23:30,408 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:23:30,476 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:23:30,728 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:23:30,729 [main] INFO logger_file - Payment method removed
+2023-05-31 22:27:19,982 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:27:20,083 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:27:20,239 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:27:20,294 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:27:20,723 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:27:20,800 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:27:20,863 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:27:21,316 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:27:21,371 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:27:22,058 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:27:23,553 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:27:23,640 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:27:23,793 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:27:23,844 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:27:24,166 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:27:24,240 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:27:24,385 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:27:24,445 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:27:24,930 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:27:25,652 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:27:27,171 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:27:27,258 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:27:27,406 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:27:27,454 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:27:27,950 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:27:28,023 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:27:28,213 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:27:28,214 [main] INFO logger_file - Payment method removed
+2023-05-31 22:28:48,899 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:28:49,004 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:28:49,165 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:28:49,221 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:28:49,550 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:28:49,637 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:28:49,699 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:28:50,196 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:28:50,246 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:28:50,913 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:28:52,386 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:28:52,476 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:28:52,637 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:28:52,691 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:28:53,016 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:28:53,091 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:28:53,232 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:28:53,284 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:28:53,781 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:28:54,513 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:28:55,961 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:28:56,049 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:28:56,208 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:28:56,257 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:28:56,582 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:28:56,656 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:28:56,851 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:28:56,915 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:28:56,916 [main] INFO logger_file - Payment method removed
+2023-05-31 22:30:34,059 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:30:34,155 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:30:34,315 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:30:34,367 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:30:34,737 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:30:34,812 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:30:34,882 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:30:35,333 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:30:35,385 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:30:36,068 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:30:37,596 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:30:37,687 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:30:37,842 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:30:37,893 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:30:38,216 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:30:38,295 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:30:38,438 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:30:38,495 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:30:38,985 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:30:39,700 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:30:41,183 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:30:41,265 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:30:41,416 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:30:41,462 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:30:41,820 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:30:41,890 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:30:42,035 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:30:42,097 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:30:53,226 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:30:53,316 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:30:53,476 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:30:53,530 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:30:53,896 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:30:53,971 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:30:54,027 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:30:54,498 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:30:54,551 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:30:55,229 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:30:56,890 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:30:56,968 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:30:57,131 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:30:57,187 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:30:57,501 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:30:57,578 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:30:57,664 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:30:57,725 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:30:58,249 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:30:58,969 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:31:00,408 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:31:00,497 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:31:00,653 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:31:00,703 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:31:01,083 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:31:01,154 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:31:01,306 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:31:01,369 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:31:49,391 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:31:49,491 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:31:49,651 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:31:49,707 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:31:50,072 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:31:50,148 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:31:50,210 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:31:50,671 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:31:50,725 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:31:51,399 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:32:07,116 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:32:07,221 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:32:07,383 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:32:07,436 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:32:07,778 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:32:07,855 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:32:07,921 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:32:08,381 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:32:08,432 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:32:22,900 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:32:22,994 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:32:23,154 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:32:23,208 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:32:23,529 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:32:23,606 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:32:23,667 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:32:24,129 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:32:24,183 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:32:24,863 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:32:26,341 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:32:26,433 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:32:26,585 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:32:26,635 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:32:27,008 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:32:27,084 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:32:27,278 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:32:27,333 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:32:27,819 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:32:28,534 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:32:29,973 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:32:30,057 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:32:30,209 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:32:30,257 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:32:30,594 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:32:30,667 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:32:30,870 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:32:30,887 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:32:30,934 [main] INFO logger_file - Payment method removed
+2023-05-31 22:33:13,217 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:33:13,310 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:33:13,474 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:33:13,526 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:33:13,849 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:33:13,925 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:33:14,134 [main] INFO logger_file - User clicked on update button successfully
+2023-05-31 22:33:14,818 [main] INFO logger_file - User profile information updated successfully
+2023-05-31 22:33:16,258 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:33:16,341 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:33:16,498 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:33:16,547 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:33:16,873 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:33:16,947 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:33:17,008 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:33:17,462 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:33:17,516 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:33:18,180 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:33:19,687 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:33:19,769 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:33:19,917 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:33:19,967 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:33:20,329 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:33:20,403 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:33:20,540 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:33:20,592 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:33:21,070 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:33:21,778 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:33:23,199 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:33:23,278 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:33:23,434 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:33:23,482 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:33:23,820 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:33:23,891 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:33:24,037 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:33:24,103 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:33:24,103 [main] INFO logger_file - Payment method removed
+2023-05-31 22:33:25,575 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:33:25,655 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:33:25,805 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:33:25,851 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:33:26,185 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:33:26,252 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:33:26,324 [main] INFO logger_file - User clicked on Add address option successfully
+2023-05-31 22:33:26,966 [main] INFO logger_file - User filled address with information successfully
+2023-05-31 22:33:27,033 [main] INFO logger_file - User clicked on Add address button successfully
+2023-05-31 22:33:27,705 [main] INFO logger_file - A message Address Added Successfully displayed successfully
+2023-05-31 22:33:29,096 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:33:29,172 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:33:29,315 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:33:29,364 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:33:29,693 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:33:29,756 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:33:29,878 [main] INFO logger_file - User clicked on edit address option successfully
+2023-05-31 22:33:30,587 [main] INFO logger_file - User filled address with information successfully
+2023-05-31 22:33:30,634 [main] INFO logger_file - User clicked on update your address button successfully
+2023-05-31 22:33:31,304 [main] INFO logger_file - Address Updated Successfully : showed successfully
+2023-05-31 22:33:32,739 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:33:32,818 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:33:32,963 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:33:33,010 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:33:33,359 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:33:33,425 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:33:33,536 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:34:06,558 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:34:06,651 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:34:06,813 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:34:06,868 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:34:07,205 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:34:07,283 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:34:07,341 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:34:07,807 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:34:07,862 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:34:08,536 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:34:24,612 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:34:24,712 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:34:24,869 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:34:24,923 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:34:25,291 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:34:25,371 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:34:25,432 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:34:25,899 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:34:25,956 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:34:26,626 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:34:28,131 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:34:28,217 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:34:28,368 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:34:28,417 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:34:28,749 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:34:28,823 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:34:28,956 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:34:29,009 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:34:29,496 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:34:30,217 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:34:31,705 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:34:31,790 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:34:31,944 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:34:31,997 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:34:32,358 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:34:32,430 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:34:32,579 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:34:32,642 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:34:32,642 [main] INFO logger_file - Payment method removed
+2023-05-31 22:35:19,665 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:35:19,756 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:35:19,913 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:35:19,968 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:35:20,282 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:35:20,360 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:35:20,421 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:35:20,884 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:35:20,937 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:35:21,604 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:35:23,073 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:35:23,158 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:35:23,313 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:35:23,365 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:35:23,697 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:35:23,770 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:35:23,909 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:35:23,964 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:35:24,453 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:35:25,179 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:35:26,693 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:35:26,767 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:35:26,923 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:35:26,973 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:35:27,278 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:35:27,344 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:35:27,496 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:35:27,562 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:35:27,563 [main] INFO logger_file - Payment method removed
+2023-05-31 22:36:25,333 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:36:25,422 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:36:25,578 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:36:25,632 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:36:25,944 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:36:26,020 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:36:26,083 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:36:26,538 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:36:26,592 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:36:27,268 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:36:28,833 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:36:28,913 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:36:29,060 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:36:29,110 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:36:29,420 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:36:29,492 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:36:29,643 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:36:29,698 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:36:30,199 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:36:30,916 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:36:32,375 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:36:32,463 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:36:32,615 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:36:32,663 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:36:32,987 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:36:33,056 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:36:33,258 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:36:36,333 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:36:36,333 [main] INFO logger_file - Payment method removed
+2023-05-31 22:38:22,457 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:38:22,546 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:38:22,704 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:38:22,756 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:38:23,192 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:38:23,288 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:38:23,351 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:38:23,802 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:38:23,852 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:38:24,522 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:38:26,060 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:38:26,144 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:38:26,294 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:38:26,348 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:38:26,716 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:38:26,793 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:38:26,879 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:38:26,937 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:38:27,432 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:38:28,167 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:38:29,633 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:38:29,710 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:38:29,864 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:38:29,916 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:38:30,244 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:38:30,312 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:38:30,505 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:38:36,588 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:38:36,589 [main] INFO logger_file - Payment method removed
+2023-05-31 22:41:27,965 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:41:28,060 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:41:28,226 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:41:28,284 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:41:28,617 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:41:28,692 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:41:28,752 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:41:29,221 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:41:29,275 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:41:29,960 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:41:31,434 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:41:31,522 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:41:31,674 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:41:31,727 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:41:32,095 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:41:32,169 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:41:32,323 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:41:32,378 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:41:32,875 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:41:33,585 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:41:35,116 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:41:35,203 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:41:35,358 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:41:35,407 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:41:35,734 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:41:35,805 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:42:39,941 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:42:40,037 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:42:40,198 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:42:40,251 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:42:40,589 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:42:40,666 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:42:40,730 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:42:41,184 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:42:41,236 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:42:41,915 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:42:43,408 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:42:43,495 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:42:43,649 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:42:43,700 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:42:44,022 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:42:44,098 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:42:44,249 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:42:44,303 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:42:44,796 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:42:45,519 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:42:46,997 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:42:47,081 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:42:47,231 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:42:47,278 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:42:47,639 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:42:47,709 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:42:49,786 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:42:55,856 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:42:55,857 [main] INFO logger_file - Payment method removed
+2023-05-31 22:44:47,540 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:44:47,633 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:44:47,792 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:44:47,847 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:44:48,156 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:44:48,231 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:44:48,294 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:44:48,754 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:44:48,805 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:44:49,490 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:44:50,918 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:44:51,006 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:44:51,161 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:44:51,213 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:44:51,595 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:44:51,671 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:44:51,810 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:44:51,864 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:44:52,353 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:44:53,085 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:44:54,631 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:44:54,706 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:44:54,856 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:44:54,903 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:44:55,211 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:44:55,280 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:44:55,489 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:45:01,549 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:45:01,549 [main] INFO logger_file - Payment method removed
+2023-05-31 22:45:38,758 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:45:39,040 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:45:39,143 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:45:39,374 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:45:39,518 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:45:39,774 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:45:40,000 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:45:41,051 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:45:41,280 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:45:41,820 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:45:44,948 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:45:45,223 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:45:45,314 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:45:45,543 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:45:45,700 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:45:45,958 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:45:46,200 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:45:46,426 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:45:47,488 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:45:48,250 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:45:51,678 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:45:51,942 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:45:52,029 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:45:52,258 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:45:52,437 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:45:52,690 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:45:52,931 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:45:59,204 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:45:59,205 [main] INFO logger_file - Payment method removed
+2023-05-31 22:47:28,235 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:47:28,325 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:47:28,481 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:47:28,536 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:47:28,838 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:47:28,912 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:47:28,972 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:47:29,445 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:47:29,499 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:47:30,175 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:47:31,677 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:47:31,763 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:47:31,914 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:47:31,964 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:47:32,300 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:47:32,374 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:47:32,527 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:47:32,579 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:47:33,061 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:47:33,804 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:47:35,231 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:47:35,312 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:47:35,458 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:47:35,506 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:47:35,868 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:47:35,935 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:47:36,079 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:47:41,127 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:47:41,127 [main] INFO logger_file - Payment method removed
+2023-05-31 22:47:51,236 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:47:51,329 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:47:51,491 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:47:51,544 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:47:52,108 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:47:52,185 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:47:52,248 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:47:52,701 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:47:52,755 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:47:53,428 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:47:54,873 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:47:54,970 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:47:55,133 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:47:55,185 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:47:55,508 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:47:55,581 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:47:55,724 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:47:55,777 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:47:56,265 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:47:56,977 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:47:58,500 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:47:58,586 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:47:58,747 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:47:58,795 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:47:59,127 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:47:59,197 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:47:59,335 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:48:04,394 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:48:04,395 [main] INFO logger_file - Payment method removed
+2023-05-31 22:49:06,413 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:06,496 [main] INFO logger_file - User clicked on All section successfully
+2023-05-31 22:49:07,996 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:08,069 [main] INFO logger_file - User clicked on All section successfully
+2023-05-31 22:49:09,598 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:09,666 [main] INFO logger_file - User clicked on All section successfully
+2023-05-31 22:49:11,333 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:11,405 [main] INFO logger_file - User clicked on All section successfully
+2023-05-31 22:49:12,967 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:13,036 [main] INFO logger_file - User clicked on All section successfully
+2023-05-31 22:49:14,562 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:14,632 [main] INFO logger_file - User clicked on All section successfully
+2023-05-31 22:49:16,174 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:16,261 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:16,418 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:16,467 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:16,807 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:16,877 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:49:17,083 [main] INFO logger_file - User clicked on update button successfully
+2023-05-31 22:49:17,757 [main] INFO logger_file - User profile information updated successfully
+2023-05-31 22:49:19,226 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:19,310 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:19,464 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:19,515 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:19,849 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:19,917 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:49:19,992 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:49:20,435 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:49:20,486 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:49:21,167 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:49:22,671 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:22,750 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:22,897 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:22,947 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:23,281 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:23,350 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:49:23,497 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:49:23,553 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:49:24,018 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:49:24,727 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:49:26,156 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:26,234 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:26,378 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:26,426 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:26,790 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:26,861 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:49:27,058 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:49:27,098 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:49:27,099 [main] INFO logger_file - Payment method removed
+2023-05-31 22:49:28,633 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:28,711 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:28,856 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:28,904 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:29,546 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:29,612 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:49:29,677 [main] INFO logger_file - User clicked on Add address option successfully
+2023-05-31 22:49:30,347 [main] INFO logger_file - User filled address with information successfully
+2023-05-31 22:49:30,416 [main] INFO logger_file - User clicked on Add address button successfully
+2023-05-31 22:49:31,073 [main] INFO logger_file - A message Address Added Successfully displayed successfully
+2023-05-31 22:49:32,561 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:32,638 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:32,777 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:32,824 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:33,142 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:33,211 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:49:33,341 [main] INFO logger_file - User clicked on edit address option successfully
+2023-05-31 22:49:34,098 [main] INFO logger_file - User filled address with information successfully
+2023-05-31 22:49:34,152 [main] INFO logger_file - User clicked on update your address button successfully
+2023-05-31 22:49:34,836 [main] INFO logger_file - Address Updated Successfully : showed successfully
+2023-05-31 22:49:36,315 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:36,400 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:36,545 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:36,595 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:36,956 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:37,023 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:49:37,136 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:49:38,706 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:38,789 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:38,935 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:38,984 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:39,341 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:39,469 [main] INFO logger_file - User changed the category Smart Home successfully
+2023-05-31 22:49:39,581 [main] INFO logger_file - user entered kasa outdoor smart plug to search bar successfully
+2023-05-31 22:49:39,627 [main] INFO logger_file - User clicked on search icon successfully
+2023-05-31 22:49:39,796 [main] INFO logger_file - User clicked on item successfully
+2023-05-31 22:49:40,028 [main] INFO logger_file - User select 2 seccessfully
+2023-05-31 22:49:40,130 [main] INFO logger_file - User clicked add to card button successfully
+2023-05-31 22:49:40,295 [main] INFO logger_file - User change the quantity to 2 successfully
+2023-05-31 22:49:40,343 [main] INFO logger_file - User went to cart option successfully
+2023-05-31 22:49:40,391 [main] INFO logger_file - User clicked on delete button successfully
+2023-05-31 22:49:41,901 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:41,978 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:42,124 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:42,171 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:42,495 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:42,629 [main] INFO logger_file - User changed the category Electronics successfully
+2023-05-31 22:49:42,730 [main] INFO logger_file - user entered Apex Legends to search bar successfully
+2023-05-31 22:49:42,774 [main] INFO logger_file - User clicked on search icon successfully
+2023-05-31 22:49:43,175 [main] INFO logger_file - User select 5 seccessfully
+2023-05-31 22:49:43,245 [main] INFO logger_file - User clicked add to card button successfully
+2023-05-31 22:49:43,393 [main] INFO logger_file - User change the quantity to 5 successfully
+2023-05-31 22:49:43,441 [main] INFO logger_file - User clicked on cart option successfully
+2023-05-31 22:49:43,511 [main] INFO logger_file - user clicked on Proceed to Checkout Button successfully
+2023-05-31 22:49:43,563 [main] INFO logger_file - User clicked on Place Your Order successfully
+2023-05-31 22:49:43,834 [main] INFO logger_file - A message Order Placed, Thanks displayed successfully
+2023-05-31 22:49:45,385 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:45,462 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:45,604 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:45,650 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:45,964 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:46,088 [main] INFO logger_file - User changed the category Electronics successfully
+2023-05-31 22:49:46,195 [main] INFO logger_file - user entered Apex Legends to search bar successfully
+2023-05-31 22:49:46,240 [main] INFO logger_file - User clicked on search icon successfully
+2023-05-31 22:49:46,655 [main] INFO logger_file - User select 2 seccessfully
+2023-05-31 22:49:46,720 [main] INFO logger_file - User clicked add to card button successfully
+2023-05-31 22:49:46,769 [main] INFO logger_file - User change the quantity to 2 successfully
+2023-05-31 22:49:46,833 [main] INFO logger_file - User clicked on cart option successfully
+2023-05-31 22:49:46,892 [main] INFO logger_file - user clicked on Proceed to Checkout Button successfully
+2023-05-31 22:49:46,938 [main] INFO logger_file - User clicked on Place Your Order successfully
+2023-05-31 22:49:47,338 [main] INFO logger_file - A message Order Placed, Thanks displayed successfully
+2023-05-31 22:49:47,390 [main] INFO logger_file - User clicked on Orders section successfully
+2023-05-31 22:49:47,445 [main] INFO logger_file - User clicked on cancel the order button
+2023-05-31 22:49:47,559 [main] INFO logger_file - User selected the cancelation reason successfully
+2023-05-31 22:49:47,637 [main] INFO logger_file - User clicked on Cancel Order button successfully
+2023-05-31 22:49:47,726 [main] INFO logger_file - A cancelation message Your Order Has Been Cancelled displayed successfully
+2023-05-31 22:49:49,410 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:49,493 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:49,657 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:49,710 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:50,067 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:50,200 [main] INFO logger_file - User changed the category Electronics successfully
+2023-05-31 22:49:50,306 [main] INFO logger_file - user entered Apex Legends to search bar successfully
+2023-05-31 22:49:50,354 [main] INFO logger_file - User clicked on search icon successfully
+2023-05-31 22:49:50,762 [main] INFO logger_file - User select 5 seccessfully
+2023-05-31 22:49:50,878 [main] INFO logger_file - User clicked add to card button successfully
+2023-05-31 22:49:51,036 [main] INFO logger_file - User change the quantity to 5 successfully
+2023-05-31 22:49:51,084 [main] INFO logger_file - User clicked on cart option successfully
+2023-05-31 22:49:51,138 [main] INFO logger_file - user clicked on Proceed to Checkout Button successfully
+2023-05-31 22:49:51,180 [main] INFO logger_file - User clicked on Place Your Order successfully
+2023-05-31 22:49:51,443 [main] INFO logger_file - A message Order Placed, Thanks displayed successfully
+2023-05-31 22:49:51,488 [main] INFO logger_file - User clicked on Orders section successfully
+2023-05-31 22:49:51,540 [main] INFO logger_file - User clicked on return item button successfully
+2023-05-31 22:49:51,647 [main] INFO logger_file - User clicked on retrun reason Item damaged successfully
+2023-05-31 22:49:51,762 [main] INFO logger_file - User select the drop off the service at FedEx successfully
+2023-05-31 22:49:51,839 [main] INFO logger_file - User clicked on return order button successfully
+2023-05-31 22:49:51,987 [main] INFO logger_file - A return message Return was successfull was displayed successfully
+2023-05-31 22:49:53,517 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:53,598 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:53,742 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:53,788 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:54,114 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:54,166 [main] INFO logger_file - User clicked on Orders section successfully
+2023-05-31 22:49:54,342 [main] INFO logger_file - User clicked on review button successfully
+2023-05-31 22:49:54,404 [main] INFO logger_file - User wrote a headline headline value successfully
+2023-05-31 22:49:54,466 [main] INFO logger_file - User wrote a review review text successfully
+2023-05-31 22:49:54,514 [main] INFO logger_file - User clicked on Add your review Button successfully
+2023-05-31 22:49:55,200 [main] INFO logger_file - a review message Your review was added successfully was displayed successfully
+2023-05-31 22:49:56,684 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:56,761 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:56,906 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:49:56,953 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:49:57,305 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:49:58,716 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:49:58,795 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:49:58,840 [main] INFO logger_file - User clicked on create new account button successfully
+2023-05-31 22:49:59,104 [main] INFO logger_file - User filled signUp information successfully
+2023-05-31 22:49:59,149 [main] INFO logger_file - User clicked on SignUp button successfully
+2023-05-31 22:49:59,508 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:52:46,350 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:52:46,448 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:52:46,610 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:52:46,662 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:52:47,032 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:52:47,108 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:52:47,165 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:52:47,623 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:52:47,681 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:52:48,348 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:52:49,810 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:52:49,886 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:52:50,036 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:52:50,086 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:52:50,389 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:52:50,462 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:52:50,603 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:52:50,661 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:52:51,153 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:52:51,882 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:52:53,391 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:52:53,476 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:52:53,624 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:52:53,672 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:52:54,030 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:52:54,108 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:52:54,257 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:52:54,308 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:52:54,308 [main] INFO logger_file - Payment method removed
+2023-05-31 22:54:33,146 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:54:33,242 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:54:33,401 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:54:33,456 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:54:34,011 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:54:34,089 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:54:34,301 [main] INFO logger_file - User clicked on update button successfully
+2023-05-31 22:54:34,986 [main] INFO logger_file - User profile information updated successfully
+2023-05-31 22:54:36,519 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:54:36,613 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:54:36,767 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:54:36,818 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:54:37,150 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:54:37,224 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:54:37,278 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 22:54:37,748 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:54:37,800 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 22:54:38,474 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 22:54:40,002 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:54:40,086 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:54:40,242 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:54:40,290 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:54:40,666 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:54:40,737 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:54:40,883 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:54:40,937 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 22:54:41,421 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 22:54:42,138 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 22:54:43,606 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:54:43,686 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:54:43,838 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:54:43,888 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:54:44,216 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:54:44,287 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:54:44,424 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 22:54:46,486 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 22:54:46,487 [main] INFO logger_file - Payment method removed
+2023-05-31 22:54:47,963 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:54:48,043 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:54:48,187 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:54:48,233 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:54:48,548 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:54:48,616 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:54:48,689 [main] INFO logger_file - User clicked on Add address option successfully
+2023-05-31 22:54:49,314 [main] INFO logger_file - User filled address with information successfully
+2023-05-31 22:54:49,385 [main] INFO logger_file - User clicked on Add address button successfully
+2023-05-31 22:54:50,047 [main] INFO logger_file - A message Address Added Successfully displayed successfully
+2023-05-31 22:54:51,427 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:54:51,498 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:54:51,643 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:54:51,690 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:54:51,990 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:54:52,057 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:54:52,252 [main] INFO logger_file - User clicked on edit address option successfully
+2023-05-31 22:54:52,946 [main] INFO logger_file - User filled address with information successfully
+2023-05-31 22:54:52,994 [main] INFO logger_file - User clicked on update your address button successfully
+2023-05-31 22:54:53,682 [main] INFO logger_file - Address Updated Successfully : showed successfully
+2023-05-31 22:54:55,116 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 22:54:55,195 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 22:54:55,334 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 22:54:55,379 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 22:54:55,684 [main] INFO logger_file -  user logged in successfully
+2023-05-31 22:54:55,752 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 22:54:55,985 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:00:35,961 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:00:36,050 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:00:36,209 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:00:36,261 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:00:36,565 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:00:36,640 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:00:36,700 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 23:00:37,188 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:00:37,240 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 23:00:37,915 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 23:00:39,494 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:00:39,588 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:00:39,737 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:00:39,787 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:00:40,156 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:00:40,231 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:00:40,388 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:00:40,438 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 23:00:40,905 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:00:41,631 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 23:00:43,030 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:00:43,114 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:00:43,261 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:00:43,311 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:00:43,667 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:00:43,737 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:00:43,877 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:00:45,938 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:00:45,939 [main] INFO logger_file - Payment method removed
+2023-05-31 23:04:05,193 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:04:05,285 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:04:05,445 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:04:05,499 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:04:05,929 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:04:06,008 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:04:06,075 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 23:04:06,567 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:04:06,622 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 23:04:07,303 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 23:04:08,852 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:04:08,944 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:04:09,104 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:04:09,157 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:04:09,475 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:04:09,553 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:04:09,700 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:04:09,756 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 23:04:10,294 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:04:11,019 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 23:04:12,604 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:04:12,691 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:04:12,851 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:04:12,902 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:04:13,330 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:04:13,402 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:04:13,556 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:04:15,614 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:04:15,614 [main] INFO logger_file - Payment method removed
+2023-05-31 23:05:22,186 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:05:22,278 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:05:22,442 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:05:22,495 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:05:22,922 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:05:23,000 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:05:23,059 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 23:05:23,552 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:05:23,609 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 23:05:24,334 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 23:05:25,863 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:05:25,956 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:05:26,121 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:05:26,175 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:05:26,540 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:05:26,615 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:05:26,821 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:05:26,879 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 23:05:27,383 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:05:28,101 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 23:05:29,648 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:05:29,738 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:05:29,895 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:05:29,946 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:05:30,307 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:05:30,384 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:05:30,599 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:05:32,688 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:05:32,689 [main] INFO logger_file - Payment method removed
+2023-05-31 23:07:01,704 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:07:01,800 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:07:01,968 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:07:02,022 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:07:02,334 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:07:02,415 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:07:02,479 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 23:07:02,976 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:07:03,032 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 23:07:03,716 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 23:07:05,216 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:07:05,309 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:07:05,471 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:07:05,526 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:07:05,864 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:07:05,944 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:07:06,263 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:07:06,319 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 23:07:06,853 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:07:07,569 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 23:07:09,223 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:07:09,296 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:07:09,449 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:07:09,502 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:07:09,982 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:07:10,056 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:07:10,272 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:07:20,370 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:07:20,371 [main] INFO logger_file - Payment method removed
+2023-05-31 23:19:02,000 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:19:02,103 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:19:02,278 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:19:02,336 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:19:02,678 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:19:02,758 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:19:02,816 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 23:19:03,324 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:19:03,382 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 23:19:04,061 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 23:19:05,497 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:19:05,590 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:19:05,754 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:19:05,807 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:19:06,190 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:19:06,276 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:19:06,365 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:19:06,426 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 23:19:06,962 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:19:07,683 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 23:19:09,150 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:19:09,243 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:19:09,403 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:19:09,454 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:19:09,766 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:19:09,841 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:19:10,050 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:19:15,130 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:19:15,139 [main] INFO logger_file - Payment method removed
+2023-05-31 23:20:49,968 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:20:50,075 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:20:50,245 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:20:50,304 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:20:50,678 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:20:50,760 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:20:50,821 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 23:20:51,312 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:20:51,371 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 23:20:52,045 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 23:20:53,588 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:20:53,679 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:20:53,839 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:20:53,892 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:20:54,325 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:20:54,411 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:20:54,495 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:20:54,558 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 23:20:55,103 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:20:55,825 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 23:20:57,276 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:20:57,365 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:20:57,520 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:20:57,570 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:20:57,888 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:20:57,964 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:20:58,116 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:21:03,182 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:21:03,191 [main] INFO logger_file - Payment method removed
+2023-05-31 23:21:24,519 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:21:24,614 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:21:24,788 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:21:24,846 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:21:25,223 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:21:25,305 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:21:25,375 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 23:21:25,873 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:21:25,929 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 23:21:26,591 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 23:21:28,001 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:21:28,095 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:21:28,264 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:21:28,318 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:21:28,653 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:21:28,733 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:21:28,821 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:21:28,881 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 23:21:29,414 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:21:30,146 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 23:21:31,610 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:21:31,700 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:21:31,857 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:21:31,908 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:21:32,224 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:21:32,300 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:21:32,502 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:21:35,556 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:21:35,565 [main] INFO logger_file - Payment method removed
+2023-05-31 23:23:00,557 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:23:00,660 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:23:00,827 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:23:00,882 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:23:01,204 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:23:01,286 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:23:01,349 [main] INFO logger_file - User clicked on Add Payment method link successfully
+2023-05-31 23:23:01,831 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:23:01,887 [main] INFO logger_file - User clicked on Add your card button successfully
+2023-05-31 23:23:03,197 [main] INFO logger_file - A message of Payment Method added sucessfully displayed successfully
+2023-05-31 23:23:04,904 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:23:04,993 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:23:05,146 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:23:05,198 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:23:05,520 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:23:05,595 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:23:05,736 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:23:05,790 [main] INFO logger_file - User clicked on Edit option of card section successfully
+2023-05-31 23:23:06,293 [main] INFO logger_file - User fill debit or credit card information successfully
+2023-05-31 23:23:07,019 [main] INFO logger_file - A message Payment Method updated Successfully was displayed successfully
+2023-05-31 23:23:08,483 [main] INFO logger_file - Tekschool logo was displayed successfully
+2023-05-31 23:23:08,559 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 23:23:08,712 [main] INFO logger_file - User enterd email and password successfully
+2023-05-31 23:23:08,764 [main] INFO logger_file - user clicked on login button successfully
+2023-05-31 23:23:09,086 [main] INFO logger_file -  user logged in successfully
+2023-05-31 23:23:09,160 [main] INFO logger_file - User clicked on Account Option successfully
+2023-05-31 23:23:09,237 [main] INFO logger_file - User clicked on card to edit successfully
+2023-05-31 23:23:12,293 [main] INFO logger_file - User clicked on remove option successfully
+2023-05-31 23:23:12,303 [main] INFO logger_file - Payment method removed

@@ -1,6 +1,7 @@
 package tek.capstone.dragons.utilities;
 
 import java.time.Duration;
+import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.Set;
 
@@ -37,6 +38,7 @@ public class CommonUtility extends BaseSetup {
 		return this.getWait().until(ExpectedConditions.elementToBeClickable(by));
 	}
 
+	
 	public WebElement waitTillPresence(WebElement element) {
 		return this.getWait().until(ExpectedConditions.visibilityOf(element));
 	}
