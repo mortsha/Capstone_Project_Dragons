@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: tek.capstone.dragons.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 20, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 71.461 s <<< FAILURE! - in tek.capstone.dragons.runner.TestRunner
-Retail Account Page.Verify User can add a payment method  Time elapsed: 4.025 s  <<< FAILURE!
+Tests run: 20, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 125.87 s <<< FAILURE! - in tek.capstone.dragons.runner.TestRunner
+Retail Account Page.Verify User can add a payment method  Time elapsed: 6.372 s  <<< FAILURE!
 org.junit.ComparisonFailure: expected:<...ent Method added suc[]essfully> but was:<...ent Method added suc[c]essfully>
 	at org.junit.Assert.assertEquals(Assert.java:117)
 	at org.junit.Assert.assertEquals(Assert.java:146)

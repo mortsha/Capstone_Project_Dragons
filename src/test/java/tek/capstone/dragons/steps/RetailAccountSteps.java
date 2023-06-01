@@ -280,7 +280,13 @@ public class RetailAccountSteps extends CommonUtility {
 	}
 
 	@Then("Address details should be removed")
-	public void addressDetailsShouldBeRemoved() {
+	public void addressDetailsShouldBeRemoved() throws InterruptedException {
+		Thread.sleep(1500);
+		List<WebElement> AddressElements = factory.retailAccountPage().paymentAddressList;
+		Assert.assertTrue(AddressElements.size() == 1);
+		System.out.println(AddressElements.size());
+		logger.info("address removed");
+		Thread.sleep(2000);
 	}
 
 }

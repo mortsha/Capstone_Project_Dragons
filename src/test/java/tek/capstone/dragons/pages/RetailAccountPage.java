@@ -104,4 +104,8 @@ public class RetailAccountPage extends BaseSetup {
 	// delete address step
 	@FindBy(xpath = "//div//button[text()='Remove']")
 	public WebElement removeAddressBttn;
+	
+	@FindBy(xpath = "//div[@class='account__address-grid']/div")
+	public List<WebElement> paymentAddressList;
+	
 }

@@ -77,12 +77,13 @@ public class RetailOrderSteps extends CommonUtility {
 	}
 
 	@Then("the user delete that item")
-	public void theUserDeleteThatItem() {
+	public void theUserDeleteThatItem() throws InterruptedException {
 		click(factory.retailOrderPage().cartOption);
 		logger.info("User went to cart option successfully");
 
 		click(factory.retailOrderPage().deleteBttn);
 		logger.info("User clicked on delete button successfully");
+		Thread.sleep(2000);
 	}
 	
 
