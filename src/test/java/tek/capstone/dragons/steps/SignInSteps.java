@@ -10,6 +10,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import tek.capstone.dragons.pages.POMFactory;
 import tek.capstone.dragons.utilities.CommonUtility;
+import tek.capstone.dragons.utilities.DataGenerator;
 
 public class SignInSteps extends CommonUtility {
 	POMFactory factory = new POMFactory();
@@ -53,8 +54,11 @@ public class SignInSteps extends CommonUtility {
 	public void userFillTheSignUpInformationWithBelowData(DataTable dataTable) {
 		List<Map<String,String>> data = dataTable.asMaps(String.class, String.class);
 		for(Map<String,String> row: data) {
+		
+			String email = DataGenerator.getEmail();
+			
 			sendText(factory.reatialSigninPage().nameInputFieldRegister, row.get("name"));
-			sendText(factory.reatialSigninPage().emailInputFieldRegister, row.get("email"));
+			sendText(factory.reatialSigninPage().emailInputFieldRegister, email);
 			sendText(factory.reatialSigninPage().passInputFieldRegister, row.get("password"));
 			sendText(factory.reatialSigninPage().confirmPassInputFieldRegister, row.get("confirmPassword"));
 			logger.info("User filled signUp information successfully");

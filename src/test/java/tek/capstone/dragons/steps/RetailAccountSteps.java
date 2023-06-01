@@ -12,6 +12,7 @@ import io.cucumber.java.en.When;
 import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
 import tek.capstone.dragons.pages.POMFactory;
 import tek.capstone.dragons.utilities.CommonUtility;
+import tek.capstone.dragons.utilities.DataGenerator;
 
 public class RetailAccountSteps extends CommonUtility {
 
@@ -26,15 +27,13 @@ public class RetailAccountSteps extends CommonUtility {
 	// User update the information
 	@When("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phone) {
-		clearTextUsingSendKeys(factory.retailAccountPage().nameInputField);
-//		factory.retailAccountPage().nameInputField.clear();
-		sendText(factory.retailAccountPage().nameInputField, name);
-		logger.info("User updated " + name + " successfully");
-
-		clearTextUsingSendKeys(factory.retailAccountPage().phoneInputField);
-//		factory.retailAccountPage().phoneInputField.clear();
-		sendText(factory.retailAccountPage().phoneInputField, phone);
-		logger.info("User updated " + phone + " number successfully");
+		
+		WebElement nameInput = factory.retailAccountPage().nameInputField;
+		WebElement phoneInput = factory.retailAccountPage().phoneInputField;
+		
+		String phoneNumber = DataGenerator.getPhoneNumber();
+		sendText(nameInput, name);
+		sendText(phoneInput, phoneNumber);
 	}
 
 	@When("User click on Update button")
@@ -235,6 +234,7 @@ public class RetailAccountSteps extends CommonUtility {
 			click(factory.retailAccountPage().stateDropdown);
 			selectByVisibleText(factory.retailAccountPage().stateDropdown, row.get("state"));
 			factory.retailAccountPage().zipCodeAddressField.clear();
+			
 			sendText(factory.retailAccountPage().zipCodeAddressField, row.get("zipCode"));
 
 			logger.info("User filled address with information successfully");
@@ -250,7 +250,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("a message should be displayed {string}")
 	public void aMessageShouldBeDisplayed(String addressUpdated) {
-		waitTillPresence(factory.retailAccountPage().addressUpdatedMessage);
+		waitTillClickable(factory.retailAccountPage().addressUpdatedMessage);
 		Assert.assertEquals(factory.retailAccountPage().addressUpdatedMessage.getText(), addressUpdated);
 		logger.info(addressUpdated + " : showed successfully");
 	}

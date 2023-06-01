@@ -1,5 +1,6 @@
 package tek.capstone.dragons.base;
 
+import java.time.Duration;
 import java.util.HashMap;
 
 import org.apache.log4j.Logger;
@@ -58,10 +59,15 @@ public class BaseSetup {
 		case "edge":
 			browser = new EdgeBrowser();
 			webDriver = browser.openBrowser(url);
+			
 			break;
 		default:
 			throw new RuntimeException("Browser name in config file does not match any of the cases");
 		}
+		
+		webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		webDriver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
+		webDriver.manage().window().maximize();
 	}
 	
 	public void quitBrowser() {
