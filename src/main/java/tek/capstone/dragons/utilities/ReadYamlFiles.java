@@ -6,6 +6,7 @@ import java.util.HashMap;
 
 import org.yaml.snakeyaml.Yaml;
 
+	// to read the env_config.tml file
 public class ReadYamlFiles {
 	private static ReadYamlFiles readYamlFiles;
 	private HashMap propertyType;

@@ -1,4 +1,4 @@
-
+@Signin
 Feature: Sign in Feature
 @Regression
 Scenario: Verify user can sign in into Retail Application
