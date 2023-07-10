@@ -1,3 +1,4 @@
+@Order
 Feature: Retail Order Page
 
   @Regression
